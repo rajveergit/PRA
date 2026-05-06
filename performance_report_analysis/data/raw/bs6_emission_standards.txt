@@ -1,0 +1,242 @@
+BS6 EMISSION STANDARDS - TECHNICAL REFERENCE DOCUMENT
+=======================================================
+Document Type: Emission Standards Reference
+Standard: Bharat Stage VI (BS6 / BS-VI)
+Equivalent International Standard: Euro 6
+Implementation Date: April 1, 2020 (Phase 1) | April 1, 2023 (Phase 2 / RDE)
+Issued By: Ministry of Road Transport & Highways, Government of India
+Reference: CMVR Technical Standing Committee (CMVR-TSC)
+
+---
+
+SECTION 1: INTRODUCTION TO BS6
+--------------------------------
+The Bharat Stage VI (BS6) emission norms are the sixth iteration of emission
+standards adopted by India to control vehicular pollution. India leapfrogged
+directly from BS4 to BS6 in 2020, skipping BS5, marking a significant
+milestone in India's efforts to reduce air pollution.
+
+BS6 is broadly equivalent to Euro 6 standards used in Europe, bringing India
+in line with global best practices for vehicular emissions.
+
+Key changes from BS4 to BS6:
+- NOx (Petrol): Reduced by 25% (from 0.08 to 0.06 g/km)
+- NOx (Diesel): Reduced by 68% (from 0.25 to 0.08 g/km)
+- Particulate Matter (Diesel): Reduced by 82% (from 0.025 to 0.0045 g/km)
+- Mandatory On-Board Diagnostics (OBD2)
+- Mandatory Particulate Filter for diesel vehicles
+
+---
+
+SECTION 2: EMISSION LIMITS
+-----------------------------
+
+2.1 Petrol (Spark Ignition) Vehicles - BS6 Limits
+
+Pollutant        | Unit  | BS4 Limit | BS6 Limit | Reduction
+-----------------|-------|-----------|-----------|----------
+Carbon Monoxide (CO)      | g/km | 1.00 | 1.00 | No change
+Hydrocarbons (HC)         | g/km | 0.10 | 0.10 | No change
+Hydrocarbons + NOx (HC+NOx)| g/km | 0.18 | 0.17 | 5.5%
+Nitrogen Oxides (NOx)     | g/km | 0.08 | 0.06 | 25%
+Particulate Matter (PM)   | g/km | N/A  | 0.0045 | New requirement
+Particle Number (PN)      | #/km | N/A  | 6x10^11 | New requirement
+
+2.2 Diesel (Compression Ignition) Vehicles - BS6 Limits
+
+Pollutant        | Unit  | BS4 Limit | BS6 Limit | Reduction
+-----------------|-------|-----------|-----------|----------
+Carbon Monoxide (CO)      | g/km | 0.50 | 0.50 | No change
+Hydrocarbons + NOx (HC+NOx)| g/km | 0.30 | 0.17 | 43%
+Nitrogen Oxides (NOx)     | g/km | 0.25 | 0.08 | 68%
+Particulate Matter (PM)   | g/km | 0.025| 0.0045 | 82%
+Particle Number (PN)      | #/km | N/A  | 6x10^11 | New requirement
+
+---
+
+SECTION 3: BS6 PHASE 2 - REAL DRIVING EMISSIONS (RDE)
+-------------------------------------------------------
+Effective from April 1, 2023, all new vehicles must comply with
+Real Driving Emissions (RDE) testing in addition to laboratory tests.
+
+3.1 What is RDE?
+RDE measures actual emissions during on-road driving using a
+Portable Emissions Measurement System (PEMS) device attached to the vehicle.
+This eliminates the gap between lab-tested and real-world emissions.
+
+3.2 RDE Test Requirements
+Test Route Composition:
+- Urban driving: 29-44% of trip distance
+  - Speed: < 60 km/h
+  - Stop time: 6-22% of urban time
+- Rural driving: 23-43% of trip distance
+  - Speed: 60-90 km/h
+- Motorway driving: 23-43% of trip distance
+  - Speed: > 90 km/h (min 90 km/h for > 5 mins)
+
+Test Conditions:
+- Altitude: 0-700m (base test), 700-1300m (extended test)
+- Temperature: 0°C to 30°C (base), -7°C to 0°C (extended)
+- Trip duration: 90-120 minutes
+- Trip distance: 48 km minimum
+
+Conformity Factors (CF):
+- NOx: CF = 2.1 (Phase 2), target CF = 1.0 by 2025
+- PN: CF = 1.5
+
+3.3 RDE Compliance Statement
+A vehicle complies with BS6 Phase 2 RDE if:
+NOx_RDE ≤ BS6_NOx_limit × Conformity_Factor
+Example: 0.08 g/km × 2.1 = 0.168 g/km maximum allowed on road
+
+---
+
+SECTION 4: REQUIRED EMISSION CONTROL TECHNOLOGIES
+---------------------------------------------------
+
+4.1 Petrol Vehicles
+Three-Way Catalytic Converter (TWC):
+- Converts CO, HC, and NOx simultaneously
+- Operating temperature: 400°C - 800°C
+- Light-off temperature: ~250°C
+- Conversion efficiency at operating temp: >95%
+
+Oxygen (Lambda) Sensors:
+- Pre-catalyst (upstream): Controls fuel injection for stoichiometric combustion
+- Post-catalyst (downstream): Monitors catalyst efficiency
+
+Evaporative Emission Control (EVAP):
+- Activated carbon canister captures fuel vapours
+- Purge valve releases captured HC to intake during driving
+
+Positive Crankcase Ventilation (PCV):
+- Recirculates crankcase blow-by gases to intake
+
+Gasoline Particulate Filter (GPF):
+- Required for direct injection petrol engines
+- Filters particulate matter from exhaust
+- Regenerates automatically during driving
+
+4.2 Diesel Vehicles
+Diesel Oxidation Catalyst (DOC):
+- Converts CO and HC from diesel combustion
+- Operating temperature: 200°C - 550°C
+
+Diesel Particulate Filter (DPF):
+- Mandatory for BS6 compliance
+- Filters >99% of soot particles
+- Periodic regeneration required (automatic above 60 km/h)
+- DPF Warning: If DPF light illuminates, drive at 60+ km/h for 30 mins
+
+Selective Catalytic Reduction (SCR) with AdBlue:
+- Required for NOx reduction in diesel
+- Uses urea solution (AdBlue / DEF) to convert NOx to N2 and H2O
+- AdBlue consumption: approx. 3-5% of diesel consumption
+- AdBlue tank capacity: typically 10-20 litres
+- AdBlue refill interval: every 15,000-20,000 km
+
+Exhaust Gas Recirculation (EGR):
+- Recirculates a portion of exhaust gas to reduce combustion temperature
+- Reduces NOx formation at source
+
+---
+
+SECTION 5: ON-BOARD DIAGNOSTICS (OBD)
+----------------------------------------
+BS6 mandates OBD2 compliance for all vehicles.
+
+5.1 OBD2 Requirements
+- Malfunction Indicator Lamp (MIL / Check Engine Light): Mandatory
+- Diagnostic Trouble Codes (DTCs): Standardized across manufacturers
+- Communication Protocol: CAN bus (ISO 15765-4)
+- OBD port: 16-pin J1962 connector
+
+5.2 Monitored Systems (BS6 OBD Requirements)
+- Catalyst monitoring
+- Oxygen sensor monitoring
+- EGR monitoring
+- Evaporative system monitoring
+- Fuel system monitoring
+- Misfire detection
+- Secondary air system
+- DPF monitoring (diesel)
+- SCR/AdBlue monitoring (diesel)
+
+5.3 Readiness Monitors
+Before emissions testing, all readiness monitors must show "Ready":
+- Catalyst Monitor
+- O2 Sensor Monitor
+- EVAP Monitor
+- EGR Monitor
+- Fuel System Monitor
+- Misfire Monitor
+
+---
+
+SECTION 6: FUEL REQUIREMENTS FOR BS6
+---------------------------------------
+Petrol: Minimum 91 RON (Research Octane Number)
+Diesel: Maximum sulphur content: 10 ppm (parts per million)
+         (BS4 diesel: 50 ppm | BS6 diesel: 10 ppm)
+
+Note: Using BS4 fuel in a BS6 vehicle will damage emission systems.
+AdBlue must meet ISO 22241 purity standards.
+
+---
+
+SECTION 7: IMPACT ON VEHICLE TECHNOLOGY & PERFORMANCE
+-------------------------------------------------------
+7.1 Effect on Petrol Engines
+- Direct injection petrol engines require GPF
+- Turbocharging more common to maintain performance while downsizing
+- Fuel injection timing refined for lower emissions
+- EGR used in some petrol engines
+
+7.2 Effect on Diesel Engines
+- DPF adds back pressure, slightly reduces power
+- SCR system adds cost and complexity
+- AdBlue system requires regular monitoring
+- Diesel engines became significantly more expensive (+15-20%)
+
+7.3 Industry Response
+Due to the high compliance cost of BS6 diesel, many manufacturers have:
+- Discontinued smaller diesel engines (below 1.5L)
+- Reduced diesel variant offerings
+- Focused on CNG/petrol/hybrid alternatives
+
+Example: Maruti Suzuki discontinued all diesel models from its lineup in 2020
+citing BS6 compliance costs for smaller engines.
+
+---
+
+SECTION 8: EMISSION TEST PROCEDURE (WLTP)
+-------------------------------------------
+BS6 uses the Worldwide Harmonised Light Vehicles Test Procedure (WLTP)
+replacing the older NEDC (New European Driving Cycle).
+
+WLTP Test Cycles:
+Phase          | Speed Range | Duration | Distance
+---------------|-------------|----------|----------
+Low            | 0-56 km/h   | 589 sec  | 3.095 km
+Medium         | 0-76 km/h   | 433 sec  | 4.756 km
+High           | 0-97 km/h   | 455 sec  | 7.158 km
+Extra-High     | 0-131 km/h  | 323 sec  | 8.254 km
+Total          | -           | 1800 sec | 23.27 km
+
+WLTP fuel consumption figures are typically 10-15% higher than older
+NEDC figures, providing more realistic real-world estimates.
+
+---
+
+SECTION 9: PENALTIES FOR NON-COMPLIANCE
+-----------------------------------------
+Under the Motor Vehicles Act and CMVR:
+- Manufacturing/selling non-compliant vehicles: Up to ₹10,000 per vehicle
+- Tampering with emission control systems: Up to ₹10,000 fine
+- Operating vehicle with tampered system: PUC test failure + fine
+
+---
+
+END OF DOCUMENT
+This document is prepared for academic and reference purposes only.
+Standards data sourced from official CMVR and Ministry of Road Transport notifications.

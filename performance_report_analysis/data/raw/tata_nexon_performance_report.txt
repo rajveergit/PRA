@@ -1,0 +1,202 @@
+TATA NEXON PERFORMANCE REPORT 2023
+===================================
+Document Type: Engine Performance & Specifications Report
+Vehicle: Tata Nexon (Petrol & Diesel Variants)
+Model Year: 2023
+Prepared by: ARAI (Automotive Research Association of India)
+Report Reference: ARAI/PERF/NEXON/2023/047
+
+---
+
+SECTION 1: VEHICLE OVERVIEW
+-----------------------------
+The Tata Nexon is a sub-compact SUV manufactured by Tata Motors. Launched in 2017 and
+significantly updated in 2020 and 2023, the Nexon competes in the highly contested
+sub-4-meter SUV segment in India. The 2023 facelift introduced updated powertrains,
+a redesigned exterior, and enhanced safety technology.
+
+Dimensions:
+- Length: 3,993 mm
+- Width: 1,811 mm
+- Height: 1,606 mm
+- Wheelbase: 2,498 mm
+- Ground Clearance: 209 mm (unladen)
+- Kerb Weight (Petrol): 1,275 kg
+- Kerb Weight (Diesel): 1,325 kg
+- Boot Space: 350 litres
+
+---
+
+SECTION 2: PETROL ENGINE SPECIFICATIONS
+-----------------------------------------
+Engine Model: Revotron 1.2L Turbocharged Petrol
+Engine Type: 3-cylinder, inline, turbocharged, intercooled
+Displacement: 1,199 cc
+Bore x Stroke: 74.0 mm x 93.0 mm
+Compression Ratio: 10.0:1
+Fuel System: Multi-Point Fuel Injection (MPFI)
+Valvetrain: DOHC, 12 valves
+
+Performance Output:
+- Maximum Power: 118.36 PS (87 kW) @ 5,000 RPM
+- Maximum Torque: 170 Nm @ 1,750 - 4,000 RPM
+- Peak Power RPM: 5,000 RPM
+- Torque Band: 1,750 to 4,000 RPM (flat torque curve)
+
+Transmission Options:
+- 6-speed Manual Transmission (6MT)
+- 7-speed Dual Clutch Automatic Transmission (7DCT)
+
+Fuel Efficiency (ARAI Certified):
+- Manual: 17.01 km/l
+- Automatic (DCT): 16.80 km/l
+
+Emission Standard: BS6 Phase 2 (Real Driving Emissions compliant)
+CO2 Emissions: 114 g/km (Manual), 116 g/km (Automatic)
+
+---
+
+SECTION 3: DIESEL ENGINE SPECIFICATIONS
+-----------------------------------------
+Engine Model: Revotorq 1.5L Turbocharged Diesel
+Engine Type: 4-cylinder, inline, turbocharged, common rail direct injection
+Displacement: 1,497 cc
+Bore x Stroke: 76.0 mm x 82.5 mm
+Compression Ratio: 16.5:1
+Fuel System: Common Rail Direct Injection (CRDI)
+Turbocharger: Variable Geometry Turbocharger (VGT)
+
+Performance Output:
+- Maximum Power: 113.39 PS (83.4 kW) @ 3,750 RPM
+- Maximum Torque: 260 Nm @ 1,500 - 2,750 RPM
+- Peak Power RPM: 3,750 RPM
+- Torque Band: 1,500 to 2,750 RPM
+
+Transmission Options:
+- 6-speed Manual Transmission (6MT)
+- 6-speed Automatic Transmission (6AT) with paddle shifters
+
+Fuel Efficiency (ARAI Certified):
+- Manual: 24.07 km/l
+- Automatic: 19.01 km/l
+
+Emission Standard: BS6 Phase 2
+CO2 Emissions: 107 g/km (Manual)
+
+---
+
+SECTION 4: DYNO TEST RESULTS
+------------------------------
+Testing Conditions:
+- Ambient Temperature: 25°C
+- Humidity: 60% RH
+- Altitude: 600m above sea level
+- Fuel: Commercial grade 91 RON petrol / BS6 diesel
+
+Petrol Variant - Wheel Power Output (Chassis Dyno):
+RPM     | Wheel Power (PS) | Wheel Torque (Nm)
+--------|-----------------|------------------
+1,000   | 18              | 125
+1,500   | 35              | 148
+2,000   | 55              | 162
+2,500   | 72              | 168
+3,000   | 88              | 170
+3,500   | 98              | 170
+4,000   | 106             | 163
+4,500   | 112             | 154
+5,000   | 118             | 142
+5,500   | 108             | 123
+
+Diesel Variant - Wheel Power Output (Chassis Dyno):
+RPM     | Wheel Power (PS) | Wheel Torque (Nm)
+--------|-----------------|------------------
+1,000   | 22              | 145
+1,500   | 48              | 198
+2,000   | 72              | 240
+2,500   | 88              | 255
+3,000   | 100             | 260
+3,500   | 110             | 238
+4,000   | 112             | 200
+4,500   | 108             | 168
+5,000   | 95              | 130
+
+---
+
+SECTION 5: ACCELERATION & PERFORMANCE TESTS
+---------------------------------------------
+Petrol Manual:
+- 0-60 km/h: 5.2 seconds
+- 0-100 km/h: 11.6 seconds
+- 0-140 km/h: 22.4 seconds
+- Top Speed: 178 km/h
+
+Diesel Manual:
+- 0-60 km/h: 4.9 seconds
+- 0-100 km/h: 11.1 seconds
+- 0-140 km/h: 21.8 seconds
+- Top Speed: 182 km/h
+
+Petrol Automatic (DCT):
+- 0-60 km/h: 5.0 seconds
+- 0-100 km/h: 11.3 seconds
+- Top Speed: 176 km/h
+
+In-Gear Acceleration (Petrol Manual, 4th Gear):
+- 40-80 km/h: 8.1 seconds
+- 60-100 km/h: 9.3 seconds
+- 80-120 km/h: 11.8 seconds
+
+---
+
+SECTION 6: SAFETY RATINGS
+---------------------------
+Bharat NCAP 2023 Rating: 5 Stars (Adult Occupant)
+Adult Occupant Protection: 29.32 / 32 points (91.6%)
+Child Occupant Protection: 45.00 / 49 points (91.8%)
+
+Key Safety Features:
+- 6 airbags (driver, passenger, side, curtain)
+- ABS with EBD and Brake Assist
+- Electronic Stability Program (ESP)
+- Hill Hold Control
+- Rollover Mitigation
+- ISOFIX child seat anchors
+- TPMS (Tyre Pressure Monitoring System)
+- Rear parking camera with sensors
+
+---
+
+SECTION 7: EMISSION COMPLIANCE
+--------------------------------
+Standard: BS6 Phase 2 (Equivalent to Euro 6d)
+NOx (Diesel): 0.06 g/km (Limit: 0.08 g/km) - COMPLIANT
+PM (Diesel): 0.0004 g/km (Limit: 0.0045 g/km) - COMPLIANT
+CO (Petrol): 0.8 g/km (Limit: 1.0 g/km) - COMPLIANT
+HC+NOx (Petrol): 0.09 g/km (Limit: 0.17 g/km) - COMPLIANT
+
+Real Driving Emissions (RDE) Test: PASSED
+On-Board Diagnostics: OBD2 compliant
+
+---
+
+SECTION 8: SERVICE INTERVALS
+------------------------------
+Engine Oil Change: Every 10,000 km or 1 year (whichever is earlier)
+Engine Oil Specification: 5W-30 fully synthetic
+Oil Capacity (Petrol): 3.5 litres
+Oil Capacity (Diesel): 4.5 litres
+
+Air Filter: Replace every 20,000 km
+Fuel Filter (Diesel): Replace every 40,000 km
+Spark Plugs (Petrol): Replace every 30,000 km
+Timing Belt/Chain: Chain-driven (no scheduled replacement)
+Coolant Flush: Every 2 years or 40,000 km
+Brake Fluid: Replace every 2 years
+Clutch Fluid: Replace every 2 years
+Tyre Rotation: Every 10,000 km
+
+---
+
+END OF REPORT
+Document Reference: ARAI/PERF/NEXON/2023/047
+This report is prepared for academic and reference purposes only.

@@ -1,0 +1,1507 @@
+[
+    {
+        "page_content": "BS6 EMISSION STANDARDS - TECHNICAL REFERENCE DOCUMENT ======================================================= Document Type: Emission Standards Reference Standard: Bharat Stage VI (BS6 / BS-VI) Equivalent International Standard: Euro 6 Implementation Date: April 1, 2020 (Phase 1) | April 1, 2023 (Phase 2 / RDE) Issued By: Ministry of Road Transport & Highways, Government of India Reference: CMVR Technical Standing Committee (CMVR-TSC) --- SECTION 1: INTRODUCTION TO BS6 -------------------------------- The",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "1: INTRODUCTION TO BS6 -------------------------------- The Bharat Stage VI (BS6) emission norms are the sixth iteration of emission standards adopted by India to control vehicular pollution",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". India leapfrogged directly from BS4 to BS6 in 2020, skipping BS5, marking a significant milestone in India's efforts to reduce air pollution. BS6 is broadly equivalent to Euro 6 standards used in Europe, bringing India in line with global best practices for vehicular emissions",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". Key changes from BS4 to BS6: - NOx (Petrol): Reduced by 25% (from 0.08 to 0.06 g/km) - NOx (Diesel): Reduced by 68% (from 0.25 to 0.08 g/km) - Particulate Matter (Diesel): Reduced by 82% (from 0.025 to 0.0045 g/km) - Mandatory On-Board Diagnostics (OBD2) - Mandatory Particulate Filter for diesel vehicles --- SECTION 2: EMISSION LIMITS ----------------------------- 2.1 Petrol (Spark Ignition) Vehicles - BS6 Limits Pollutant | Unit | BS4 Limit | BS6 Limit | Reduction",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "BS6 Limits Pollutant | Unit | BS4 Limit | BS6 Limit | Reduction -----------------|-------|-----------|-----------|---------- Carbon Monoxide (CO) | g/km | 1.00 | 1.00 | No change Hydrocarbons (HC) | g/km | 0.10 | 0.10 | No change Hydrocarbons + NOx (HC+NOx)| g/km | 0.18 | 0.17 | 5.5% Nitrogen Oxides (NOx) | g/km | 0.08 | 0.06 | 25% Particulate Matter (PM) | g/km | N/A | 0.0045 | New requirement Particle Number (PN) | #/km | N/A | 6x10^11 | New requirement 2.2 Diesel (Compression Ignition) Vehicles - BS6",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "requirement 2.2 Diesel (Compression Ignition) Vehicles - BS6 Limits Pollutant | Unit | BS4 Limit | BS6 Limit | Reduction -----------------|-------|-----------|-----------|---------- Carbon Monoxide (CO) | g/km | 0.50 | 0.50 | No change Hydrocarbons + NOx (HC+NOx)| g/km | 0.30 | 0.17 | 43% Nitrogen Oxides (NOx) | g/km | 0.25 | 0.08 | 68% Particulate Matter (PM) | g/km | 0.025| 0.0045 | 82% Particle Number (PN) | #/km | N/A | 6x10^11 | New requirement --- SECTION 3: BS6 PHASE 2 - REAL DRIVING EMISSIONS (RDE)",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "--- SECTION 3: BS6 PHASE 2 - REAL DRIVING EMISSIONS (RDE) ------------------------------------------------------- Effective from April 1, 2023, all new vehicles must comply with Real Driving Emissions (RDE) testing in addition to laboratory tests",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". 3.1 What is RDE? RDE measures actual emissions during on-road driving using a Portable Emissions Measurement System (PEMS) device attached to the vehicle. This eliminates the gap between lab-tested and real-world emissions",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". 3.2 RDE Test Requirements Test Route Composition: - Urban driving: 29-44% of trip distance - Speed: < 60 km/h - Stop time: 6-22% of urban time - Rural driving: 23-43% of trip distance - Speed: 60-90 km/h - Motorway driving: 23-43% of trip distance - Speed: > 90 km/h (min 90 km/h for > 5 mins) Test Conditions: - Altitude: 0-700m (base test), 700-1300m (extended test) - Temperature: 0 C to 30 C (base), -7 C to 0 C (extended) - Trip duration: 90-120 minutes - Trip distance: 48 km minimum Conformity Factors",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "minutes - Trip distance: 48 km minimum Conformity Factors (CF): - NOx: CF = 2.1 (Phase 2), target CF = 1.0 by 2025 - PN: CF = 1.5 3.3 RDE Compliance Statement A vehicle complies with BS6 Phase 2 RDE if: NOx_RDE BS6_NOx_limit Conformity_Factor Example: 0.08 g/km 2.1 = 0.168 g/km maximum allowed on road --- SECTION 4: REQUIRED EMISSION CONTROL TECHNOLOGIES --------------------------------------------------- 4.1 Petrol Vehicles Three-Way Catalytic Converter (TWC): - Converts CO, HC, and NOx simultaneously -",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "Converter (TWC): - Converts CO, HC, and NOx simultaneously - Operating temperature: 400 C - 800 C - Light-off temperature: ~250 C - Conversion efficiency at operating temp: >95% Oxygen (Lambda) Sensors: - Pre-catalyst (upstream): Controls fuel injection for stoichiometric combustion - Post-catalyst (downstream): Monitors catalyst efficiency Evaporative Emission Control (EVAP): - Activated carbon canister captures fuel vapours - Purge valve releases captured HC to intake during driving Positive Crankcase",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "captured HC to intake during driving Positive Crankcase Ventilation (PCV): - Recirculates crankcase blow-by gases to intake Gasoline Particulate Filter (GPF): - Required for direct injection petrol engines - Filters particulate matter from exhaust - Regenerates automatically during driving 4.2 Diesel Vehicles Diesel Oxidation Catalyst (DOC): - Converts CO and HC from diesel combustion - Operating temperature: 200 C - 550 C Diesel Particulate Filter (DPF): - Mandatory for BS6 compliance - Filters >99% of",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "Filter (DPF): - Mandatory for BS6 compliance - Filters >99% of soot particles - Periodic regeneration required (automatic above 60 km/h) - DPF Warning: If DPF light illuminates, drive at 60+ km/h for 30 mins Selective Catalytic Reduction (SCR) with AdBlue: - Required for NOx reduction in diesel - Uses urea solution (AdBlue / DEF) to convert NOx to N2 and H2O - AdBlue consumption: approx",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". 3-5% of diesel consumption - AdBlue tank capacity: typically 10-20 litres - AdBlue refill interval: every 15,000-20,000 km Exhaust Gas Recirculation (EGR): - Recirculates a portion of exhaust gas to reduce combustion temperature - Reduces NOx formation at source --- SECTION 5: ON-BOARD DIAGNOSTICS (OBD) ---------------------------------------- BS6 mandates OBD2 compliance for all vehicles",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". 5.1 OBD2 Requirements - Malfunction Indicator Lamp (MIL / Check Engine Light): Mandatory - Diagnostic Trouble Codes (DTCs): Standardized across manufacturers - Communication Protocol: CAN bus (ISO 15765-4) - OBD port: 16-pin J1962 connector 5.2 Monitored Systems (BS6 OBD Requirements) - Catalyst monitoring - Oxygen sensor monitoring - EGR monitoring - Evaporative system monitoring - Fuel system monitoring - Misfire detection - Secondary air system - DPF monitoring (diesel) - SCR/AdBlue monitoring (diesel)",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "- DPF monitoring (diesel) - SCR/AdBlue monitoring (diesel) 5.3 Readiness Monitors Before emissions testing, all readiness monitors must show \"Ready\": - Catalyst Monitor - O2 Sensor Monitor - EVAP Monitor - EGR Monitor - Fuel System Monitor - Misfire Monitor --- SECTION 6: FUEL REQUIREMENTS FOR BS6 --------------------------------------- Petrol: Minimum 91 RON (Research Octane Number) Diesel: Maximum sulphur content: 10 ppm (parts per million) (BS4 diesel: 50 ppm | BS6 diesel: 10 ppm) Note: Using BS4 fuel",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "(BS4 diesel: 50 ppm | BS6 diesel: 10 ppm) Note: Using BS4 fuel in a BS6 vehicle will damage emission systems",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". AdBlue must meet ISO 22241 purity standards",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". --- SECTION 7: IMPACT ON VEHICLE TECHNOLOGY & PERFORMANCE ------------------------------------------------------- 7.1 Effect on Petrol Engines - Direct injection petrol engines require GPF - Turbocharging more common to maintain performance while downsizing - Fuel injection timing refined for lower emissions - EGR used in some petrol engines 7.2 Effect on Diesel Engines - DPF adds back pressure, slightly reduces power - SCR system adds cost and complexity - AdBlue system requires regular monitoring -",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "and complexity - AdBlue system requires regular monitoring - Diesel engines became significantly more expensive (+15-20%) 7.3 Industry Response Due to the high compliance cost of BS6 diesel, many manufacturers have: - Discontinued smaller diesel engines (below 1.5L) - Reduced diesel variant offerings - Focused on CNG/petrol/hybrid alternatives Example: Maruti Suzuki discontinued all diesel models from its lineup in 2020 citing BS6 compliance costs for smaller engines",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". --- SECTION 8: EMISSION TEST PROCEDURE (WLTP) ------------------------------------------- BS6 uses the Worldwide Harmonised Light Vehicles Test Procedure (WLTP) replacing the older NEDC (New European Driving Cycle)",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". WLTP Test Cycles: Phase | Speed Range | Duration | Distance ---------------|-------------|----------|---------- Low | 0-56 km/h | 589 sec | 3.095 km Medium | 0-76 km/h | 433 sec | 4.756 km High | 0-97 km/h | 455 sec | 7.158 km Extra-High | 0-131 km/h | 323 sec | 8.254 km Total | - | 1800 sec | 23.27 km WLTP fuel consumption figures are typically 10-15% higher than older NEDC figures, providing more realistic real-world estimates",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": ". --- SECTION 9: PENALTIES FOR NON-COMPLIANCE ----------------------------------------- Under the Motor Vehicles Act and CMVR: - Manufacturing/selling non-compliant vehicles: Up to 10,000 per vehicle - Tampering with emission control systems: Up to 10,000 fine - Operating vehicle with tampered system: PUC test failure + fine --- END OF DOCUMENT This document is prepared for academic and reference purposes only. Standards data sourced from official CMVR and Ministry of Road Transport notifications.",
+        "metadata": {
+            "source": "bs6_emission_standards.txt",
+            "document_type": "emission_data"
+        }
+    },
+    {
+        "page_content": "ENGINE DYNO TEST RESULTS - COMPARATIVE ANALYSIS ================================================= Document Type: Chassis Dynamometer Test Report (Comparative) Test Facility: Automotive Performance Test Centre Report ID: APTC/DYNO/2023/COMP/08 Date: October 2023 Test Engineer: [Test Engineer Name] Scope: Comparative dyno testing of 5 popular Indian SUVs (2023 models) --- INTRODUCTION ------------- This report presents comparative chassis dynamometer test results for five popular sub-compact and compact SUVs",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "test results for five popular sub-compact and compact SUVs available in the Indian market as of 2023",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": ". All vehicles were tested in identical conditions using a Maha MSR 500 AWD chassis dynamometer. Results represent wheel power (not crank power). Note: Wheel power is typically 10-15% lower than manufacturer-claimed crank power due to drivetrain losses",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": ". --- TEST CONDITIONS ---------------- Ambient Temperature: 24 C 2 C Barometric Pressure: 1013 mbar Relative Humidity: 55% 5% Dynamometer Type: Maha MSR 500 (2WD mode, front drive) Fuel: Commercial grade 91 RON petrol (all petrol vehicles) Fuel: Commercial grade BS6 diesel (all diesel vehicles) Tyre Pressure: Manufacturer recommended cold inflation Test Runs per Vehicle: 3 (average of best 2 runs reported) Warm-up: 15 minutes at moderate load before test --- VEHICLE 1: TATA NEXON 1.2T PETROL MANUAL (2023)",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "before test --- VEHICLE 1: TATA NEXON 1.2T PETROL MANUAL (2023) ------------------------------------------------- Odometer: 3,420 km Transmission: 6-speed Manual Test Weight: 1,275 kg Claimed Power: 118.36 PS @ 5,000 RPM Claimed Torque: 170 Nm @ 1,750-4,000 RPM Dyno Results (Wheel): RPM | Wheel Power (PS) | Wheel Torque (Nm) | Power (kW) -------|-----------------|-------------------|---------- 1,000 | 14.2 | 98.3 | 10.5 1,500 | 28.6 | 126.4 | 21.1 2,000 | 46.8 | 145.2 | 34.4 2,500 | 62.4 | 154.1 | 45.9",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "| 21.1 2,000 | 46.8 | 145.2 | 34.4 2,500 | 62.4 | 154.1 | 45.9 3,000 | 76.8 | 159.3 | 56.5 3,500 | 88.2 | 159.8 | 64.9 4,000 | 96.4 | 151.7 | 70.9 4,500 | 100.8 | 140.2 | 74.2 5,000 | 103.6 | 129.4 | 76.2 5,500 | 96.2 | 109.8 | 70.8 6,000 | 82.1 | 86.0 | 60.4 Peak Wheel Power: 103.6 PS @ 5,000 RPM Peak Wheel Torque: 159.8 Nm @ 3,500 RPM Drivetrain Loss: 12.5% --- VEHICLE 2: MARUTI SUZUKI BREZZA 1.5L PETROL MANUAL (2023) ----------------------------------------------------------- Odometer: 2,180 km",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "Odometer: 2,180 km Transmission: 5-speed Manual Test Weight: 1,205 kg Claimed Power: 103.24 PS @ 6,000 RPM Claimed Torque: 137 Nm @ 4,400 RPM Dyno Results (Wheel): RPM | Wheel Power (PS) | Wheel Torque (Nm) | Power (kW) -------|-----------------|-------------------|---------- 1,000 | 10.8 | 74.2 | 7.9 1,500 | 22.4 | 99.1 | 16.5 2,000 | 38.2 | 119.8 | 28.1 2,500 | 54.6 | 134.8 | 40.2 3,000 | 68.4 | 142.2 | 50.3 3,500 | 78.2 | 140.8 | 57.5 4,000 | 84.6 | 132.4 | 62.3 4,500 | 88.0 | 123.4 | 64.8 5,000 | 90.2",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "| 84.6 | 132.4 | 62.3 4,500 | 88.0 | 123.4 | 64.8 5,000 | 90.2 | 113.0 | 66.4 5,500 | 89.8 | 102.2 | 66.1 6,000 | 87.6 | 91.7 | 64.5 Peak Wheel Power: 90.2 PS @ 5,000 RPM Peak Wheel Torque: 142.2 Nm @ 3,000 RPM Drivetrain Loss: 12.6% --- VEHICLE 3: HYUNDAI CRETA 1.5L PETROL MANUAL (2023) ---------------------------------------------------- Odometer: 4,650 km Transmission: 6-speed Manual Test Weight: 1,400 kg Claimed Power: 115 PS @ 6,300 RPM Claimed Torque: 144 Nm @ 4,500 RPM Dyno Results (Wheel): RPM |",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "Claimed Torque: 144 Nm @ 4,500 RPM Dyno Results (Wheel): RPM | Wheel Power (PS) | Wheel Torque (Nm) | Power (kW) -------|-----------------|-------------------|---------- 1,000 | 11.2 | 77.8 | 8.2 1,500 | 24.6 | 108.8 | 18.1 2,000 | 42.8 | 134.2 | 31.5 2,500 | 60.4 | 149.1 | 44.5 3,000 | 76.2 | 158.5 | 56.1 3,500 | 86.8 | 156.1 | 63.9 4,000 | 94.6 | 148.2 | 69.6 4,500 | 99.4 | 138.7 | 73.1 5,000 | 100.2 | 125.4 | 73.7 5,500 | 98.2 | 111.8 | 72.3 6,000 | 94.6 | 99.0 | 69.6 6,300 | 99.8 | 99.2 | 73.4 Peak",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "72.3 6,000 | 94.6 | 99.0 | 69.6 6,300 | 99.8 | 99.2 | 73.4 Peak Wheel Power: 100.2 PS @ 5,000 RPM Peak Wheel Torque: 158.5 Nm @ 3,000 RPM Drivetrain Loss: 12.9% --- VEHICLE 4: KIA SELTOS 1.5L PETROL MANUAL (2023) ------------------------------------------------- Odometer: 5,820 km Transmission: 6-speed Manual Test Weight: 1,425 kg Claimed Power: 115 PS @ 6,300 RPM Claimed Torque: 144 Nm @ 4,500 RPM Dyno Results (Wheel): RPM | Wheel Power (PS) | Wheel Torque (Nm) | Power (kW)",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "RPM | Wheel Power (PS) | Wheel Torque (Nm) | Power (kW) -------|-----------------|-------------------|---------- 1,000 | 10.6 | 73.4 | 7.8 1,500 | 23.8 | 105.2 | 17.5 2,000 | 41.4 | 129.8 | 30.5 2,500 | 58.8 | 145.2 | 43.3 3,000 | 74.6 | 155.2 | 54.9 3,500 | 85.0 | 152.8 | 62.6 4,000 | 92.4 | 144.8 | 68.0 4,500 | 97.2 | 135.6 | 71.5 5,000 | 98.6 | 123.4 | 72.5 5,500 | 97.4 | 110.8 | 71.7 6,000 | 93.2 | 97.7 | 68.6 6,300 | 98.4 | 97.7 | 72.4 Peak Wheel Power: 98.6 PS @ 5,000 RPM Peak Wheel Torque: 155.2 Nm",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "Wheel Power: 98.6 PS @ 5,000 RPM Peak Wheel Torque: 155.2 Nm @ 3,000 RPM Drivetrain Loss: 14.3% --- VEHICLE 5: HONDA ELEVATE 1.5L PETROL CVT (2023) ------------------------------------------------- Odometer: 1,890 km Transmission: CVT (Continuously Variable Transmission) Test Weight: 1,340 kg Claimed Power: 121 PS @ 6,600 RPM Claimed Torque: 145 Nm @ 4,300 RPM Dyno Results (Wheel): RPM | Wheel Power (PS) | Wheel Torque (Nm) | Power (kW) -------|-----------------|-------------------|---------- 1,000 | 9.8 |",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "1,000 | 9.8 | 68.2 | 7.2 1,500 | 22.4 | 98.6 | 16.5 2,000 | 40.8 | 127.8 | 30.0 2,500 | 60.2 | 148.8 | 44.3 3,000 | 78.4 | 163.2 | 57.7 3,500 | 90.2 | 162.4 | 66.4 4,000 | 98.4 | 154.2 | 72.4 4,500 | 103.8 | 144.8 | 76.4 5,000 | 105.4 | 131.8 | 77.6 5,500 | 104.2 | 118.6 | 76.7 6,000 | 101.0 | 105.8 | 74.3 6,600 | 102.6 | 97.5 | 75.5 Peak Wheel Power: 105.4 PS @ 5,000 RPM Peak Wheel Torque: 163.2 Nm @ 3,000 RPM Drivetrain Loss: 12.9% --- COMPARATIVE SUMMARY TABLE -------------------------- Vehicle |",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "COMPARATIVE SUMMARY TABLE -------------------------- Vehicle | Claimed PS | Wheel PS | Drivetrain Loss | Peak Wheel Torque ---------------------|-----------|----------|-----------------|------------------ Tata Nexon 1.2T | 118.36 | 103.6 | 12.5% | 159.8 Nm Maruti Brezza 1.5 | 103.24 | 90.2 | 12.6% | 142.2 Nm Hyundai Creta 1.5 | 115 | 100.2 | 12.9% | 158.5 Nm Kia Seltos 1.5 | 115 | 98.6 | 14.3% | 155.2 Nm Honda Elevate 1.5 CVT| 121 | 105.4 | 12.9% | 163.2 Nm Ranking by Wheel Power: 1",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": ". Honda Elevate (105.4 PS) 2. Tata Nexon (103.6 PS) 3. Hyundai Creta (100.2 PS) 4. Kia Seltos (98.6 PS) 5. Maruti Brezza (90.2 PS) Ranking by Peak Torque: 1. Honda Elevate (163.2 Nm) 2. Tata Nexon (159.8 Nm) 3. Hyundai Creta (158.5 Nm) 4. Kia Seltos (155.2 Nm) 5. Maruti Brezza (142.2 Nm) --- OBSERVATIONS ------------- 1. The Tata Nexon's turbocharged 1.2L engine delivers the widest flat torque band among tested vehicles, maintaining near-peak torque from 2,500 to 4,000 RPM. 2",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": ". 2. The Honda Elevate, despite being naturally aspirated, shows impressive top-end power. The CVT allows the engine to stay in its power band efficiently. 3. The Kia Seltos showed the highest drivetrain loss (14.3%), suggesting slightly higher internal friction or gearbox losses compared to competitors. 4. The Maruti Brezza has the lowest absolute power figure but offers the best power-to-weight ratio among manual transmission vehicles tested. 5",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": ". 5. All vehicles showed dyno power within 12-15% of manufacturer claims, which is consistent with expected drivetrain losses. --- END OF REPORT Report ID: APTC/DYNO/2023/COMP/08 This report is prepared for academic and reference purposes only.",
+        "metadata": {
+            "source": "engine_dyno_test_results.txt",
+            "document_type": "dyno_test"
+        }
+    },
+    {
+        "page_content": "MARUTI SUZUKI SWIFT OWNER'S MANUAL (EXCERPT) ============================================= Vehicle: Maruti Suzuki Swift Model Year: 2023 Edition: Third Generation (AZ Series) Manufacturer: Maruti Suzuki India Limited Document Type: Owner's Reference Manual (Abbreviated) --- CHAPTER 1: INTRODUCTION ------------------------- Congratulations on choosing the Maruti Suzuki Swift. This manual contains important information about the operation and maintenance of your vehicle",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Please read it carefully and keep it in your vehicle for future reference. The Swift is a premium hatchback designed for urban and highway driving, offering a balance of performance, fuel efficiency, and comfort",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". --- CHAPTER 2: ENGINE SPECIFICATIONS ---------------------------------- 2.1 Petrol Engine (K12N DualJet) Engine Type: 4-cylinder, inline, naturally aspirated Displacement: 1,197 cc Bore x Stroke: 73.0 mm x 71.5 mm Compression Ratio: 12.0:1 Valvetrain: DOHC, 16 valves, Variable Valve Timing (VVT) Fuel System: Dual Injector per cylinder (DualJet technology) Power Output: - Maximum Power: 89.74 PS (66 kW) @ 6,000 RPM - Maximum Torque: 113 Nm @ 4,400 RPM Fuel Efficiency (ARAI Certified): - Manual (5MT): 23.20",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "RPM Fuel Efficiency (ARAI Certified): - Manual (5MT): 23.20 km/l - Automatic (AMT): 23.76 km/l Emission Standard: BS6 Phase 2 CO2 Emissions: 103 g/km (Manual) 2.2 CNG Variant (K12N DualJet CNG) Engine Type: Same as petrol base with bi-fuel CNG kit Maximum Power (CNG mode): 77.50 PS @ 6,000 RPM Maximum Torque (CNG mode): 98.5 Nm @ 4,400 RPM Fuel Efficiency (CNG): 30.90 km/kg (ARAI certified) CNG Tank Capacity: 60 litres (water capacity) --- CHAPTER 3: TRANSMISSION ------------------------- 3.1 5-Speed",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "CHAPTER 3: TRANSMISSION ------------------------- 3.1 5-Speed Manual Transmission (5MT) Gear Ratios: - 1st: 3.545 - 2nd: 1.904 - 3rd: 1.233 - 4th: 0.926 - 5th: 0.724 - Reverse: 3.272 - Final Drive: 4.388 3.2 5-Speed Automated Manual Transmission (AMT) The AMT uses an electronic actuator to automate clutch and gear changes",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Modes: Drive (D), Neutral (N), Reverse (R), Manual (M) --- CHAPTER 4: CHASSIS & SUSPENSION --------------------------------- Suspension (Front): MacPherson Strut with coil springs Suspension (Rear): Torsion beam (twist beam) with coil springs Steering: Electric Power Steering (EPS) Steering Turns (lock to lock): 3.14 turns Turning Radius: 4.8 metres Brakes: - Front: Ventilated disc brakes, 258 mm diameter - Rear: Drum brakes, 200 mm diameter - Brake Assist: Standard on all variants - ABS with EBD:",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "- Brake Assist: Standard on all variants - ABS with EBD: Standard on all variants Tyres: - Standard: 185/65 R15 - Top Variants: 195/55 R16 - Tyre Pressure (Front/Rear): 33 PSI / 33 PSI (cold) - Spare: Steel full-size spare (select variants) / Space saver --- CHAPTER 5: FUEL & FLUIDS -------------------------- Fuel Type: Unleaded Petrol (minimum 87 RON / 91 RON recommended) Fuel Tank Capacity: 37 litres Engine Oil: 5W-30 or 10W-30 (JASO MA2 approved) Engine Oil Capacity: 3.3 litres (with filter change)",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "approved) Engine Oil Capacity: 3.3 litres (with filter change) Coolant Type: Suzuki Super Long Life Coolant (SLLC) Coolant Capacity: 4.5 litres Brake Fluid: DOT 3 Battery: 35 Ah, 12V --- CHAPTER 6: PERFORMANCE DATA ----------------------------- Acceleration: - 0-60 km/h: 6.1 seconds (Manual) - 0-100 km/h: 12.3 seconds (Manual) - 0-100 km/h: 13.1 seconds (AMT) Top Speed: - Petrol Manual: 175 km/h - Petrol AMT: 170 km/h - CNG: 155 km/h Braking: - 100-0 km/h: 43 metres - 80-0 km/h: 28 metres --- CHAPTER 7:",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "- 100-0 km/h: 43 metres - 80-0 km/h: 28 metres --- CHAPTER 7: SAFETY FEATURES ---------------------------- Global NCAP Rating (2022): 3 Stars (Adult), 3 Stars (Child) Note: New 2023 variants with updated safety pack expected to be retested",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Standard Safety Equipment (All Variants): - Dual front airbags - ABS with EBD - Seatbelt pretensioners (front) - Rear parking sensors - High-speed alert system Top Variant Additional Safety: - Side and curtain airbags (6 airbags total) - Electronic Stability Program (ESP) - Hill Hold Assist - 360-degree camera system --- CHAPTER 8: MAINTENANCE SCHEDULE --------------------------------- First Service: 1,000 km (free) Regular Service: Every 10,000 km or 12 months 10,000 km Service: - Engine oil and filter",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "km or 12 months 10,000 km Service: - Engine oil and filter change - Tyre rotation - Visual brake inspection - Check all fluid levels - Reset service reminder 20,000 km Service (includes above plus): - Air filter inspection / replacement - Fuel system cleaning - Throttle body cleaning - Check brake pad thickness 40,000 km Service (includes above plus): - Spark plug replacement (iridium: 80,000 km) - Coolant check - Brake fluid replacement - Drive belt inspection 80,000 km Service (includes above plus): -",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "belt inspection 80,000 km Service (includes above plus): - Spark plug replacement (non-iridium) - Engine air filter replacement - Fuel filter replacement (CNG variant) - Transmission oil replacement --- CHAPTER 9: TROUBLESHOOTING ---------------------------- Problem: Engine does not start Possible Causes: 1",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Dead battery - check battery charge level 2. Empty fuel tank - refuel 3. Faulty immobiliser - ensure correct key is used 4. Flooded engine - wait 10 minutes, then crank without pressing accelerator Problem: Excessive fuel consumption Possible Causes: 1. Tyre pressure too low - inflate to recommended pressure 2. Air filter clogged - replace air filter 3. Spark plugs worn - replace spark plugs 4. Driving habit - avoid aggressive acceleration 5",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Driving habit - avoid aggressive acceleration 5. AC usage - reduces efficiency by 15-20% Problem: Vibration at idle Possible Causes: 1. Engine mounts worn - inspect and replace 2. Spark plug misfire - check spark plugs 3. Idle speed incorrect - service required 4. Vacuum leak - inspect intake hoses Problem: Overheating Possible Causes: 1. Low coolant level - top up with recommended coolant 2. Radiator blocked - clean or replace radiator 3. Thermostat stuck closed - replace thermostat 4",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Thermostat stuck closed - replace thermostat 4. Water pump failure - replace water pump 5",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Head gasket failure - requires immediate professional service --- CHAPTER 10: WARRANTY INFORMATION ---------------------------------- Standard Warranty: 2 years / 40,000 km (whichever is earlier) Extended Warranty: Available up to 5 years / 1,00,000 km Corrosion Warranty: 3 years Roadside Assistance: 1 year (extendable) Warranty does not cover: - Normal wear items (brake pads, tyres, clutch) - Damage from accidents or misuse - Non-Maruti Suzuki approved modifications - Services performed outside",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "Suzuki approved modifications - Services performed outside authorized service centres --- CONTACT & SERVICE NETWORK --------------------------- Maruti Suzuki Customer Care: 1800-102-1800 (Toll Free) Service Network: 3,500+ authorized service centres across India Genuine Spare Parts: Available at all authorized dealers Digital Service Booking: Suzuki Connect App / maruti.co.in --- END OF MANUAL EXCERPT This manual excerpt is prepared for academic and reference purposes only",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": ". Full owner's manual available at official Maruti Suzuki dealerships.",
+        "metadata": {
+            "source": "maruti_swift_owner_manual_2023.txt",
+            "vehicle_brand": "Maruti",
+            "vehicle_model": "Swift",
+            "year": "2023",
+            "document_type": "owner_manual"
+        }
+    },
+    {
+        "page_content": "BHARAT NCAP SAFETY TEST REPORT ================================ Vehicle: Hyundai Creta (2023 Facelift) Test Date: September 2023 Testing Body: Bharat New Car Assessment Programme (Bharat NCAP) Report Reference: BNCAP/2023/SUV/014 Protocol: Bharat NCAP 2023 (Based on Global NCAP AOP v9.3) --- SECTION 1: VEHICLE INFORMATION -------------------------------- Make: Hyundai Model: Creta Variant Tested: SX(O) Executive (Top Variant) Year of Manufacture: 2023 Body Type: SUV (Sub-Compact) No. of Doors: 5 No",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": ". of Seats: 5 Test Mass (with dummies): 1,595 kg Engine: 1.5L MPi Naturally Aspirated Petrol Airbags: 6 (Driver, Passenger, Side x2, Curtain x2) ABS: Yes ESC: Yes (Electronic Stability Control) Seatbelt Reminder: Front and Rear --- SECTION 2: ADULT OCCUPANT PROTECTION (AOP) -------------------------------------------- Maximum Score: 32 points Score Achieved: 26.19 points Percentage: 81.8% Rating: 4 Stars 2.1 Frontal Offset Deformable Barrier (ODB) Test Test Speed: 64 km/h Overlap: 40% Driver Dummy",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "(ODB) Test Test Speed: 64 km/h Overlap: 40% Driver Dummy Assessment: - Head: GOOD (no contact with steering wheel) - Neck: ADEQUATE (NIC within limits) - Chest: ADEQUATE (compression 32mm) - Abdomen: GOOD (no intrusion) - Knee/Femur: GOOD (clearance adequate) - Lower Leg/Foot: MARGINAL (slight pedal intrusion) Passenger Dummy Assessment: - Head: GOOD (airbag deployment nominal) - Chest: ADEQUATE (compression 34mm) - Abdomen: GOOD ODB Sub-score: Driver 7.20 / 8 | Passenger 6.50 / 8 2.2 Frontal Full-Width",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "Driver 7.20 / 8 | Passenger 6.50 / 8 2.2 Frontal Full-Width Rigid Barrier (FWRB) Test Test Speed: 50 km/h Driver Dummy Assessment: - Head/Neck: GOOD - Thorax: GOOD (compression 28mm) - Lower limbs: GOOD FWRB Sub-score: Driver 5.40 / 8 | Passenger 5.09 / 8 2.3 Side Movable Deformable Barrier (MDB) Test Test Speed: 60 km/h - Thorax: GOOD - Abdomen: GOOD - Pelvis: GOOD MDB Sub-score: 4.00 / 4 2.4 Far Side Impact Test Far Side Sub-score: 3.00 / 4 --- SECTION 3: CHILD OCCUPANT PROTECTION (COP)",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "3.00 / 4 --- SECTION 3: CHILD OCCUPANT PROTECTION (COP) -------------------------------------------- Maximum Score: 49 points Score Achieved: 41.15 points Percentage: 83.98% Rating: 4 Stars 3.1 CRS (Child Restraint System) Installation ISOFIX Availability: Yes (Rear outboard seats) Top-tether: Yes 3-point belt (rear centre): Yes Child Dummies Used: - 6-year-old dummy (Q6 equivalent) - 10-year-old dummy (Q10 equivalent) Dynamic Test - ODB (Forward-facing CRS): - 6-year-old Head: GOOD - 6-year-old Chest:",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "CRS): - 6-year-old Head: GOOD - 6-year-old Chest: GOOD - 10-year-old Head: GOOD - 10-year-old Chest: ADEQUATE Dynamic Test - Pole (Rear-facing CRS): - 15-month equivalent: GOOD COP Sub-score: Dynamic 24.00 / 24 | CRS Installation 17.15 / 25 --- SECTION 4: SAFETY ASSIST SYSTEMS ----------------------------------- 4.1 Autonomous Emergency Braking (AEB) City AEB (10-50 km/h): AVAILABLE - Tested PASS Interurban AEB (30-80 km/h): AVAILABLE - Tested PASS Pedestrian AEB: AVAILABLE - Tested PASS Cyclist AEB: NOT",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "PASS Pedestrian AEB: AVAILABLE - Tested PASS Cyclist AEB: NOT AVAILABLE 4.2 Lane Support Systems Lane Departure Warning (LDW): AVAILABLE Lane Keep Assist (LKA): AVAILABLE Lane Centering (LC): NOT AVAILABLE 4.3 Speed Assistance Systems Speed Limit Recognition: AVAILABLE Intelligent Speed Assistance: NOT AVAILABLE 4.4 Seatbelt Reminders Front Row: Both seats - GOOD Rear Row: All seats - GOOD (with visual and audio) Safety Assist Sub-score: 8.00 / 8 --- SECTION 5: OVERALL RATING SUMMARY",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "Sub-score: 8.00 / 8 --- SECTION 5: OVERALL RATING SUMMARY ------------------------------------ Category | Score | Max | Stars ----------------------------|-----------|------|------- Adult Occupant Protection | 26.19 | 32 | Child Occupant Protection | 41.15 | 49 | Safety Assist | 8.00 | 8 | Overall | 75.34 | 89 | Final Rating: 4 Stars --- SECTION 6: STRUCTURAL INTEGRITY OBSERVATIONS ---------------------------------------------- - Door opening post-crash: All doors openable without tools - Airbag deployment",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "All doors openable without tools - Airbag deployment timing: 18ms (frontal), 22ms (side) - within limits - Seatbelt load limiter: Activated correctly in all tests - Fuel system integrity: No leakage observed post-impact - Door intrusion (side test): 85mm at door level (limit: 150mm) - PASS - Steering column intrusion (ODB): 18mm - PASS (limit: 100mm) --- SECTION 7: RECOMMENDATIONS ----------------------------- Areas Performing Well: - Side impact protection excellent (MDB test) - Child restraint system",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "impact protection excellent (MDB test) - Child restraint system compatibility - AEB system performance - Seatbelt reminder coverage (all seats) Areas for Improvement: - Lower leg/foot protection in ODB test - CRS installation scoring (labelling and documentation) - Consider adding Cyclist AEB for 5-star AOP --- SECTION 8: COMPARISON WITH COMPETITORS (2023 Tests) ------------------------------------------------------ Vehicle | AOP Stars | COP Stars | Overall",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "Vehicle | AOP Stars | COP Stars | Overall ----------------------|-----------|-----------|-------- Hyundai Creta 2023 | 4 | 4 | 4 Stars Tata Nexon 2023 | 5 | 5 | 5 Stars Maruti Brezza 2023 | 4 | 4 | 4 Stars Kia Seltos 2023 | 3 | 3 | 3 Stars Honda Elevate 2023 | 2 | 2 | 2 Stars --- SECTION 9: TEST CONDITIONS ----------------------------- Test Facility: NATRIP Testing and Research Centre, Manesar, Haryana Ambient Temperature: 22 C Track Surface: Concrete (dry) Test conducted under: Bharat NCAP Protocol v1.0",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "Concrete (dry) Test conducted under: Bharat NCAP Protocol v1.0 (2023) Test witnessed by: Ministry of Road Transport & Highways representative --- END OF REPORT Report Reference: BNCAP/2023/SUV/014 This report is prepared for academic and reference purposes only",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": ". Data sourced from publicly available Bharat NCAP press releases.",
+        "metadata": {
+            "source": "ncap_safety_report_creta_2023.txt",
+            "vehicle_model": "Creta",
+            "year": "2023",
+            "document_type": "safety_report"
+        }
+    },
+    {
+        "page_content": "code: P0100 | description: Mass Air Flow Sensor Circuit Malfunction | system: Engine | probable_cause: Dirty or faulty MAF sensor | fix: Clean or replace MAF sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0101 | description: Mass Air Flow Sensor Range/Performance | system: Engine | probable_cause: Air leak or faulty MAF sensor | fix: Check air intake for leaks; replace MAF if needed | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0102 | description: Mass Air Flow Sensor Low Input | system: Engine | probable_cause: Wiring issue or faulty MAF | fix: Inspect wiring harness; replace MAF sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0103 | description: Mass Air Flow Sensor High Input | system: Engine | probable_cause: Short circuit in MAF wiring | fix: Check and repair wiring; replace MAF sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0110 | description: Intake Air Temperature Sensor Circuit | system: Engine | probable_cause: Faulty IAT sensor or wiring | fix: Replace IAT sensor | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0112 | description: Intake Air Temperature Sensor Low Input | system: Engine | probable_cause: Short to ground in IAT circuit | fix: Inspect and repair IAT wiring | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0113 | description: Intake Air Temperature Sensor High Input | system: Engine | probable_cause: Open circuit in IAT sensor | fix: Replace IAT sensor | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0116 | description: Engine Coolant Temperature Sensor Range | system: Engine | probable_cause: Faulty ECT sensor or stuck thermostat | fix: Replace ECT sensor or thermostat | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0117 | description: Engine Coolant Temperature Sensor Low | system: Engine | probable_cause: Short to ground in ECT circuit | fix: Inspect wiring; replace ECT sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0118 | description: Engine Coolant Temperature Sensor High | system: Engine | probable_cause: Open circuit in ECT sensor | fix: Replace ECT sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0128 | description: Coolant Temperature Below Thermostat Regulating Temperature | system: Engine | probable_cause: Stuck open thermostat | fix: Replace thermostat | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0171 | description: System Too Lean Bank 1 | system: Fuel | probable_cause: Vacuum leak or clogged fuel injector | fix: Check for vacuum leaks; clean injectors | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0172 | description: System Too Rich Bank 1 | system: Fuel | probable_cause: Leaking fuel injector or faulty O2 sensor | fix: Inspect injectors; replace O2 sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0174 | description: System Too Lean Bank 2 | system: Fuel | probable_cause: Vacuum leak on bank 2 side | fix: Inspect intake manifold gaskets | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0175 | description: System Too Rich Bank 2 | system: Fuel | probable_cause: Faulty fuel pressure regulator | fix: Replace fuel pressure regulator | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0200 | description: Injector Circuit Malfunction | system: Fuel | probable_cause: Faulty injector or wiring issue | fix: Inspect injector wiring; replace injector | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0201 | description: Injector Circuit Malfunction Cylinder 1 | system: Fuel | probable_cause: Faulty cylinder 1 injector | fix: Replace injector on cylinder 1 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0202 | description: Injector Circuit Malfunction Cylinder 2 | system: Fuel | probable_cause: Faulty cylinder 2 injector | fix: Replace injector on cylinder 2 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0203 | description: Injector Circuit Malfunction Cylinder 3 | system: Fuel | probable_cause: Faulty cylinder 3 injector | fix: Replace injector on cylinder 3 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0204 | description: Injector Circuit Malfunction Cylinder 4 | system: Fuel | probable_cause: Faulty cylinder 4 injector | fix: Replace injector on cylinder 4 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0261 | description: Cylinder 1 Injector Circuit Low | system: Fuel | probable_cause: Short to ground in injector wiring | fix: Repair wiring or replace injector | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0300 | description: Random/Multiple Cylinder Misfire Detected | system: Ignition | probable_cause: Faulty spark plugs or ignition coils | fix: Replace spark plugs and check coils | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0301 | description: Cylinder 1 Misfire Detected | system: Ignition | probable_cause: Faulty spark plug or coil on cylinder 1 | fix: Replace spark plug/coil on cylinder 1 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0302 | description: Cylinder 2 Misfire Detected | system: Ignition | probable_cause: Faulty spark plug or coil on cylinder 2 | fix: Replace spark plug/coil on cylinder 2 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0303 | description: Cylinder 3 Misfire Detected | system: Ignition | probable_cause: Faulty spark plug or coil on cylinder 3 | fix: Replace spark plug/coil on cylinder 3 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0304 | description: Cylinder 4 Misfire Detected | system: Ignition | probable_cause: Faulty spark plug or coil on cylinder 4 | fix: Replace spark plug/coil on cylinder 4 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0325 | description: Knock Sensor 1 Circuit Malfunction | system: Ignition | probable_cause: Faulty knock sensor or wiring | fix: Replace knock sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0335 | description: Crankshaft Position Sensor Circuit | system: Ignition | probable_cause: Faulty CKP sensor or wiring | fix: Replace crankshaft position sensor | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0340 | description: Camshaft Position Sensor Circuit | system: Ignition | probable_cause: Faulty CMP sensor or wiring | fix: Replace camshaft position sensor | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0351 | description: Ignition Coil A Primary/Secondary Circuit | system: Ignition | probable_cause: Faulty ignition coil A | fix: Replace ignition coil A | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0352 | description: Ignition Coil B Primary/Secondary Circuit | system: Ignition | probable_cause: Faulty ignition coil B | fix: Replace ignition coil B | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0400 | description: Exhaust Gas Recirculation Flow Malfunction | system: Emission | probable_cause: Clogged or faulty EGR valve | fix: Clean or replace EGR valve | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0401 | description: Exhaust Gas Recirculation Insufficient Flow | system: Emission | probable_cause: Blocked EGR passage | fix: Clean EGR passages and valve | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0402 | description: Exhaust Gas Recirculation Excessive Flow | system: Emission | probable_cause: EGR valve stuck open | fix: Replace EGR valve | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0410 | description: Secondary Air Injection System Malfunction | system: Emission | probable_cause: Faulty air pump or check valve | fix: Inspect and replace air pump/valves | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0420 | description: Catalyst System Efficiency Below Threshold Bank 1 | system: Emission | probable_cause: Worn catalytic converter or faulty O2 sensor | fix: Replace catalytic converter or O2 sensor | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0421 | description: Warm Up Catalyst Efficiency Below Threshold | system: Emission | probable_cause: Failing warm-up catalytic converter | fix: Replace warm-up catalytic converter | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0430 | description: Catalyst System Efficiency Below Threshold Bank 2 | system: Emission | probable_cause: Worn catalytic converter bank 2 | fix: Replace catalytic converter on bank 2 | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0440 | description: Evaporative Emission Control System Malfunction | system: Emission | probable_cause: Loose fuel cap or faulty purge valve | fix: Tighten fuel cap; inspect EVAP system | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0441 | description: Evaporative Emission Control Incorrect Purge Flow | system: Emission | probable_cause: Faulty purge solenoid | fix: Replace EVAP purge solenoid | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0442 | description: Evaporative Emission Control Small Leak | system: Emission | probable_cause: Small fuel system leak | fix: Inspect fuel cap and EVAP hoses | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0455 | description: Evaporative Emission Control Large Leak | system: Emission | probable_cause: Large EVAP system leak or loose fuel cap | fix: Check fuel cap and EVAP hoses | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0470 | description: Exhaust Pressure Sensor Malfunction | system: Emission | probable_cause: Faulty exhaust pressure sensor | fix: Replace exhaust pressure sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0500 | description: Vehicle Speed Sensor Malfunction | system: Transmission | probable_cause: Faulty VSS or wiring | fix: Replace vehicle speed sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0505 | description: Idle Control System Malfunction | system: Engine | probable_cause: Dirty or faulty idle air control valve | fix: Clean or replace IAC valve | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0506 | description: Idle Control System RPM Too Low | system: Engine | probable_cause: Vacuum leak or IAC valve issue | fix: Check for vacuum leaks; clean IAC | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0507 | description: Idle Control System RPM Too High | system: Engine | probable_cause: Faulty IAC valve | fix: Replace IAC valve | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0560 | description: System Voltage Malfunction | system: Electrical | probable_cause: Weak battery or faulty alternator | fix: Test battery and alternator | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0562 | description: System Voltage Low | system: Electrical | probable_cause: Low battery voltage or charging issue | fix: Check battery and charging system | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0563 | description: System Voltage High | system: Electrical | probable_cause: Overcharging alternator | fix: Replace voltage regulator or alternator | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0600 | description: Serial Communication Link Malfunction | system: Electronics | probable_cause: ECU communication failure | fix: Inspect CAN bus wiring; replace ECU | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0601 | description: Internal Control Module Memory Check Sum Error | system: Electronics | probable_cause: Faulty ECU | fix: Replace or reflash ECU | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0606 | description: ECM/PCM Processor Fault | system: Electronics | probable_cause: Faulty engine control module | fix: Replace ECM | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0620 | description: Generator Control Circuit Malfunction | system: Electrical | probable_cause: Faulty alternator or wiring | fix: Inspect alternator circuit | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0700 | description: Transmission Control System Malfunction | system: Transmission | probable_cause: TCM fault or solenoid issue | fix: Inspect transmission control module | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0705 | description: Transmission Range Sensor Circuit Malfunction | system: Transmission | probable_cause: Faulty PRNDL switch | fix: Replace transmission range sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0711 | description: Transmission Fluid Temperature Sensor Malfunction | system: Transmission | probable_cause: Faulty TFT sensor | fix: Replace transmission fluid temp sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0715 | description: Input/Turbine Speed Sensor Circuit | system: Transmission | probable_cause: Faulty input speed sensor | fix: Replace input speed sensor | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0720 | description: Output Speed Sensor Circuit Malfunction | system: Transmission | probable_cause: Faulty output speed sensor | fix: Replace output speed sensor | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0730 | description: Incorrect Gear Ratio | system: Transmission | probable_cause: Worn clutches or faulty solenoid | fix: Service transmission; replace solenoids | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0740 | description: Torque Converter Clutch Circuit Malfunction | system: Transmission | probable_cause: Faulty TCC solenoid | fix: Replace TCC solenoid | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0750 | description: Shift Solenoid A Malfunction | system: Transmission | probable_cause: Faulty shift solenoid A | fix: Replace shift solenoid A | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0760 | description: Shift Solenoid C Malfunction | system: Transmission | probable_cause: Faulty shift solenoid C | fix: Replace shift solenoid C | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0801 | description: Reverse Inhibit Control Circuit Malfunction | system: Transmission | probable_cause: Faulty reverse inhibit solenoid | fix: Replace reverse inhibit solenoid | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P0850 | description: Park/Neutral Switch Input Circuit | system: Transmission | probable_cause: Faulty park/neutral switch | fix: Replace park/neutral switch | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1000 | description: OBD Systems Readiness Test Not Complete | system: Diagnostic | probable_cause: Drive cycles not completed after battery reset | fix: Complete required drive cycles | severity: Info",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1100 | description: MAF Sensor Intermittent | system: Engine | probable_cause: Intermittent MAF sensor fault | fix: Inspect MAF connector; replace if needed | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1130 | description: O2 Sensor Heater Circuit Bank 1 Sensor 1 | system: Emission | probable_cause: Faulty O2 sensor heater | fix: Replace O2 sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1131 | description: O2 Sensor Heater Circuit Bank 1 Sensor 2 | system: Emission | probable_cause: Faulty downstream O2 sensor heater | fix: Replace downstream O2 sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1300 | description: Igniter Circuit Malfunction | system: Ignition | probable_cause: Faulty igniter or coil | fix: Replace igniter or ignition coil | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1400 | description: Sub-Throttle Position Sensor | system: Engine | probable_cause: Faulty sub-throttle sensor | fix: Replace throttle body assembly | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1450 | description: Unable to Bleed Up Fuel Tank Vacuum | system: Emission | probable_cause: Faulty EVAP canister or vent valve | fix: Replace EVAP canister or vent valve | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1500 | description: Vehicle Speed Sensor Intermittent | system: Transmission | probable_cause: Intermittent VSS fault | fix: Check VSS wiring and connector | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P1600 | description: ECM Battery Circuit Malfunction | system: Electrical | probable_cause: ECM power supply issue | fix: Inspect ECM fuse and wiring | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2096 | description: Post Catalyst Fuel Trim System Too Lean Bank 1 | system: Emission | probable_cause: Exhaust leak or faulty O2 sensor | fix: Check for exhaust leaks; replace O2 sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2097 | description: Post Catalyst Fuel Trim System Too Rich Bank 1 | system: Emission | probable_cause: Faulty catalytic converter or O2 sensor | fix: Inspect catalytic converter | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2100 | description: Throttle Actuator Control Motor Circuit Open | system: Engine | probable_cause: Faulty throttle actuator motor | fix: Replace throttle body | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2101 | description: Throttle Actuator Control Motor Circuit Range | system: Engine | probable_cause: Faulty TAC motor | fix: Replace throttle actuator | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2119 | description: Throttle Actuator Control Throttle Body Range | system: Engine | probable_cause: Dirty or faulty throttle body | fix: Clean or replace throttle body | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2122 | description: Throttle/Pedal Position Sensor D Circuit Low | system: Engine | probable_cause: Faulty accelerator pedal sensor | fix: Replace accelerator pedal assembly | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2123 | description: Throttle/Pedal Position Sensor D Circuit High | system: Engine | probable_cause: Short in pedal position sensor circuit | fix: Replace accelerator pedal assembly | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2195 | description: O2 Sensor Signal Stuck Lean Bank 1 Sensor 1 | system: Emission | probable_cause: Faulty upstream O2 sensor | fix: Replace upstream O2 sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2196 | description: O2 Sensor Signal Stuck Rich Bank 1 Sensor 1 | system: Emission | probable_cause: Faulty upstream O2 sensor or fuel issue | fix: Replace O2 sensor; check fuel pressure | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2270 | description: O2 Sensor Signal Stuck Lean Bank 1 Sensor 2 | system: Emission | probable_cause: Faulty downstream O2 sensor | fix: Replace downstream O2 sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2271 | description: O2 Sensor Signal Stuck Rich Bank 1 Sensor 2 | system: Emission | probable_cause: Faulty downstream O2 sensor | fix: Replace downstream O2 sensor | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2400 | description: EVAP Leak Detection Pump Control Circuit Open | system: Emission | probable_cause: Faulty EVAP leak detection pump | fix: Replace EVAP leak detection pump | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2401 | description: EVAP Leak Detection Pump Control Circuit Low | system: Emission | probable_cause: Short in LDP circuit | fix: Repair LDP wiring | severity: Low",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: P2610 | description: ECM/PCM Internal Engine Off Timer Performance | system: Electronics | probable_cause: ECM internal fault | fix: Replace or reflash ECM | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: U0001 | description: High Speed CAN Communication Bus | system: Electronics | probable_cause: CAN bus wiring fault | fix: Inspect CAN bus network | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: U0100 | description: Lost Communication with ECM/PCM | system: Electronics | probable_cause: ECM communication failure | fix: Check ECM power and ground; replace if needed | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: U0101 | description: Lost Communication with TCM | system: Electronics | probable_cause: TCM communication failure | fix: Check TCM wiring; replace if needed | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: U0121 | description: Lost Communication with ABS Control Module | system: Braking | probable_cause: ABS module communication failure | fix: Check ABS module wiring | severity: High",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: U0140 | description: Lost Communication with Body Control Module | system: Electronics | probable_cause: BCM communication failure | fix: Inspect BCM wiring; replace BCM | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "code: U0155 | description: Lost Communication with Instrument Panel | system: Electronics | probable_cause: Cluster module communication issue | fix: Check instrument cluster wiring | severity: Medium",
+        "metadata": {
+            "source": "obd2_fault_codes.csv",
+            "document_type": "diagnostic_data"
+        }
+    },
+    {
+        "page_content": "TATA NEXON EV MAX PERFORMANCE REPORT ====================================== Document Type: Electric Vehicle Performance & Technical Report Vehicle: Tata Nexon EV Max Model Year: 2023 Battery Pack: Long Range (LR) 40.5 kWh Report Reference: TATA/EV/NEXON/2023/011 --- SECTION 1: ELECTRIC POWERTRAIN OVERVIEW ----------------------------------------- The Tata Nexon EV Max features a permanent magnet synchronous motor (PMSM) paired with a 40.5 kWh lithium-ion battery pack",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": ". It represents Tata Motors' flagship electric SUV in the sub-compact segment for 2023",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": ". Motor Type: Permanent Magnet Synchronous Motor (PMSM) Drive: Front-Wheel Drive (FWD) Inverter: SiC (Silicon Carbide) MOSFET-based inverter --- SECTION 2: MOTOR SPECIFICATIONS --------------------------------- Maximum Power: 143 PS (105 kW) @ 3,000-9,000 RPM Maximum Torque: 250 Nm @ 0-3,000 RPM (instantaneous from standstill) Continuous Power: 80 kW Motor RPM Range: 0 to 12,500 RPM Motor Efficiency (peak): 96% Note: Unlike ICE vehicles, EV motors deliver maximum torque from 0 RPM, providing instant",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "EV motors deliver maximum torque from 0 RPM, providing instant acceleration without the need to rev the engine",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": ". --- SECTION 3: BATTERY PACK SPECIFICATIONS ---------------------------------------- Battery Chemistry: Lithium Nickel Manganese Cobalt Oxide (NMC) Gross Capacity: 40.5 kWh Usable Capacity: 37.5 kWh (usable = 92.6% of gross) Nominal Voltage: 351.6 V Peak Voltage: 403 V Battery Weight: 320 kg Battery Pack Dimensions: 1,980 mm x 1,280 mm x 145 mm (approx) Cell Format: Prismatic Battery Cooling: Active liquid cooling system Operating Temperature: -10 C to 45 C (optimal: 20 C to 35 C) Thermal Management:",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "-10 C to 45 C (optimal: 20 C to 35 C) Thermal Management: Active battery thermal management system (BTMS) Battery Warranty: 8 years / 1,60,000 km (whichever earlier) Capacity Retention Guarantee: >70% capacity at end of warranty period --- SECTION 4: RANGE & EFFICIENCY -------------------------------- MIDC (Modified Indian Driving Cycle) Range: 453 km (certified) Real-World Range Estimate: 300-350 km (mixed driving) Real-World Range (City Only): 370-400 km Real-World Range (Highway): 280-310 km Efficiency:",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "370-400 km Real-World Range (Highway): 280-310 km Efficiency: - MIDC: 11.5 kWh / 100 km - City: 10.8 kWh / 100 km (estimated) - Highway: 14.2 kWh / 100 km (estimated) - Combined Real World: 12.0 kWh / 100 km (estimated) Range Affecting Factors: - AC usage: Reduces range by 15-20% - Temperature below 10 C: Reduces range by 20-30% - Highway speeds above 100 km/h: Reduces range significantly - Tyre inflation: 5% range reduction per 10 PSI under-inflation --- SECTION 5: CHARGING SPECIFICATIONS",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "10 PSI under-inflation --- SECTION 5: CHARGING SPECIFICATIONS ------------------------------------- 5.1 AC Charging (On-board Charger) On-board Charger Capacity: 7.2 kW (single phase) AC Input: 230V, 50Hz, single phase Charging Times (0% to 100%): - 15A Home Socket (1.8 kW): ~22 hours (not recommended for regular use) - 32A Single Phase AC Wallbox (7.2 kW): ~5.5 hours - 3-phase 11 kW AC (if available): ~3.5 hours 5.2 DC Fast Charging (CCS2) Maximum DC Charging Rate: 50 kW DC Charging Times: - 0% to 80% (DC",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "DC Charging Rate: 50 kW DC Charging Times: - 0% to 80% (DC Fast): ~56 minutes - 0% to 100% (DC Fast): ~90 minutes - 10% to 80% (typical session): ~42 minutes Charging Port: CCS2 (Combined Charging System Type 2) Port Location: Front left fender 5.3 Charging Network Compatibility - Tata Power EZ Charge network - BPCL Pulse network - ChargeZone - Ather Grid (for CCS2 compatible chargers) - Standard 32A AC wallboxes --- SECTION 6: PERFORMANCE TESTS ------------------------------ Acceleration: - 0-60 km/h: 3.9",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "------------------------------ Acceleration: - 0-60 km/h: 3.9 seconds - 0-100 km/h: 9.0 seconds - 0-120 km/h: 13.4 seconds Top Speed: 150 km/h (electronically limited) Braking (100-0 km/h): 41 metres Regenerative Braking Modes: Mode 0 - Coasting: Minimal regen (feels like ICE in neutral) Mode 1 - Low Regen: Gentle deceleration (~0.05g) Mode 2 - Medium Regen: Moderate deceleration (~0.1g) Mode 3 - High Regen: Strong deceleration (~0.15g, one-pedal possible) Energy Recovery through Regen: Up to 15% of total",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "possible) Energy Recovery through Regen: Up to 15% of total energy used (city cycle) --- SECTION 7: DRIVE MODES ------------------------ Eco Mode: - Power limited to 65 kW - Throttle response: Reduced - Regen: Maximum (Mode 3 default) - Range gain: +12-15% vs City mode City Mode: - Power limited to 85 kW - Throttle response: Normal - Regen: Medium (Mode 2 default) - Balanced performance and range Sport Mode: - Full 105 kW available - Throttle response: Sharp - Regen: Medium (Mode 2 default) - Maximum",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "response: Sharp - Regen: Medium (Mode 2 default) - Maximum performance, range reduced by ~10% --- SECTION 8: SERVICE INTERVALS FOR EV -------------------------------------- Unlike ICE vehicles, Nexon EV requires minimal scheduled maintenance: Every 7,500 km / 6 months: - Tyre rotation and inspection - Brake fluid level check - Cabin air filter check - All fluid levels (coolant, brake fluid, washer fluid) - Visual inspection of high-voltage cables Every 30,000 km / 2 years: - Brake fluid replacement - Cabin",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "Every 30,000 km / 2 years: - Brake fluid replacement - Cabin air filter replacement - HVAC filter replacement - High-voltage system inspection - Battery contact inspection (by trained technician only) Every 60,000 km / 4 years: - Coolant replacement (BTMS circuit) - Brake inspection - Suspension check No Required Replacements (unlike ICE): - No engine oil changes - No spark plugs - No timing belt/chain - No exhaust system maintenance - No clutch replacement Battery Pack Service: - Annual battery health",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "replacement Battery Pack Service: - Annual battery health check recommended - Battery cell balancing: Automatic (BMS managed) - No user-serviceable parts in battery pack --- SECTION 9: COMPARISON WITH NEXON ICE VARIANTS ------------------------------------------------ Parameter | Nexon EV Max | Nexon Petrol 1.2T | Nexon Diesel 1.5 -----------------------|--------------|-------------------|------------------ Power (PS) | 143 | 118.36 | 113.39 Torque (Nm) | 250 | 170 | 260 0-100 km/h (sec) | 9.0 | 11.6 |",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "Torque (Nm) | 250 | 170 | 260 0-100 km/h (sec) | 9.0 | 11.6 | 11.1 Top Speed (km/h) | 150 | 178 | 182 Running Cost /100km | 80-120 | 520-580 | 380-420 Service Cost/year | ~ 4,000 | ~ 8,000 | ~ 10,000 CO2 Emissions (g/km) | 0 (direct) | 114 | 107 Range | 300-350 km | 600+ km | 700+ km --- SECTION 10: TATA EV BATTERY SERVICE SCHEDULE ---------------------------------------------- Year 1-2: Annual comprehensive battery health report - State of Health (SoH) assessment - Cell voltage uniformity check - Thermal",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "(SoH) assessment - Cell voltage uniformity check - Thermal management system check - High voltage connector inspection Year 3-5: Extended warranty service - Full battery diagnostic - Firmware update for BMS - Cooling system pressure test Battery Replacement Cost Estimate (if needed outside warranty): - Full pack replacement: 3.5-4.5 lakhs (estimated) - Individual module replacement: Not supported (full pack only) --- END OF REPORT Report Reference: TATA/EV/NEXON/2023/011 This report is prepared for",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "Reference: TATA/EV/NEXON/2023/011 This report is prepared for academic and reference purposes only.",
+        "metadata": {
+            "source": "tata_nexon_ev_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "unknown"
+        }
+    },
+    {
+        "page_content": "TATA NEXON PERFORMANCE REPORT 2023 =================================== Document Type: Engine Performance & Specifications Report Vehicle: Tata Nexon (Petrol & Diesel Variants) Model Year: 2023 Prepared by: ARAI (Automotive Research Association of India) Report Reference: ARAI/PERF/NEXON/2023/047 --- SECTION 1: VEHICLE OVERVIEW ----------------------------- The Tata Nexon is a sub-compact SUV manufactured by Tata Motors",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": ". Launched in 2017 and significantly updated in 2020 and 2023, the Nexon competes in the highly contested sub-4-meter SUV segment in India. The 2023 facelift introduced updated powertrains, a redesigned exterior, and enhanced safety technology",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": ". Dimensions: - Length: 3,993 mm - Width: 1,811 mm - Height: 1,606 mm - Wheelbase: 2,498 mm - Ground Clearance: 209 mm (unladen) - Kerb Weight (Petrol): 1,275 kg - Kerb Weight (Diesel): 1,325 kg - Boot Space: 350 litres --- SECTION 2: PETROL ENGINE SPECIFICATIONS ----------------------------------------- Engine Model: Revotron 1.2L Turbocharged Petrol Engine Type: 3-cylinder, inline, turbocharged, intercooled Displacement: 1,199 cc Bore x Stroke: 74.0 mm x 93.0 mm Compression Ratio: 10.0:1 Fuel System:",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "74.0 mm x 93.0 mm Compression Ratio: 10.0:1 Fuel System: Multi-Point Fuel Injection (MPFI) Valvetrain: DOHC, 12 valves Performance Output: - Maximum Power: 118.36 PS (87 kW) @ 5,000 RPM - Maximum Torque: 170 Nm @ 1,750 - 4,000 RPM - Peak Power RPM: 5,000 RPM - Torque Band: 1,750 to 4,000 RPM (flat torque curve) Transmission Options: - 6-speed Manual Transmission (6MT) - 7-speed Dual Clutch Automatic Transmission (7DCT) Fuel Efficiency (ARAI Certified): - Manual: 17.01 km/l - Automatic (DCT): 16.80 km/l",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "Certified): - Manual: 17.01 km/l - Automatic (DCT): 16.80 km/l Emission Standard: BS6 Phase 2 (Real Driving Emissions compliant) CO2 Emissions: 114 g/km (Manual), 116 g/km (Automatic) --- SECTION 3: DIESEL ENGINE SPECIFICATIONS ----------------------------------------- Engine Model: Revotorq 1.5L Turbocharged Diesel Engine Type: 4-cylinder, inline, turbocharged, common rail direct injection Displacement: 1,497 cc Bore x Stroke: 76.0 mm x 82.5 mm Compression Ratio: 16.5:1 Fuel System: Common Rail Direct",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "mm Compression Ratio: 16.5:1 Fuel System: Common Rail Direct Injection (CRDI) Turbocharger: Variable Geometry Turbocharger (VGT) Performance Output: - Maximum Power: 113.39 PS (83.4 kW) @ 3,750 RPM - Maximum Torque: 260 Nm @ 1,500 - 2,750 RPM - Peak Power RPM: 3,750 RPM - Torque Band: 1,500 to 2,750 RPM Transmission Options: - 6-speed Manual Transmission (6MT) - 6-speed Automatic Transmission (6AT) with paddle shifters Fuel Efficiency (ARAI Certified): - Manual: 24.07 km/l - Automatic: 19.01 km/l Emission",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "- Manual: 24.07 km/l - Automatic: 19.01 km/l Emission Standard: BS6 Phase 2 CO2 Emissions: 107 g/km (Manual) --- SECTION 4: DYNO TEST RESULTS ------------------------------ Testing Conditions: - Ambient Temperature: 25 C - Humidity: 60% RH - Altitude: 600m above sea level - Fuel: Commercial grade 91 RON petrol / BS6 diesel Petrol Variant - Wheel Power Output (Chassis Dyno): RPM | Wheel Power (PS) | Wheel Torque (Nm) --------|-----------------|------------------ 1,000 | 18 | 125 1,500 | 35 | 148 2,000 | 55",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "1,000 | 18 | 125 1,500 | 35 | 148 2,000 | 55 | 162 2,500 | 72 | 168 3,000 | 88 | 170 3,500 | 98 | 170 4,000 | 106 | 163 4,500 | 112 | 154 5,000 | 118 | 142 5,500 | 108 | 123 Diesel Variant - Wheel Power Output (Chassis Dyno): RPM | Wheel Power (PS) | Wheel Torque (Nm) --------|-----------------|------------------ 1,000 | 22 | 145 1,500 | 48 | 198 2,000 | 72 | 240 2,500 | 88 | 255 3,000 | 100 | 260 3,500 | 110 | 238 4,000 | 112 | 200 4,500 | 108 | 168 5,000 | 95 | 130 --- SECTION 5: ACCELERATION &",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "| 108 | 168 5,000 | 95 | 130 --- SECTION 5: ACCELERATION & PERFORMANCE TESTS --------------------------------------------- Petrol Manual: - 0-60 km/h: 5.2 seconds - 0-100 km/h: 11.6 seconds - 0-140 km/h: 22.4 seconds - Top Speed: 178 km/h Diesel Manual: - 0-60 km/h: 4.9 seconds - 0-100 km/h: 11.1 seconds - 0-140 km/h: 21.8 seconds - Top Speed: 182 km/h Petrol Automatic (DCT): - 0-60 km/h: 5.0 seconds - 0-100 km/h: 11.3 seconds - Top Speed: 176 km/h In-Gear Acceleration (Petrol Manual, 4th Gear): - 40-80",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "km/h In-Gear Acceleration (Petrol Manual, 4th Gear): - 40-80 km/h: 8.1 seconds - 60-100 km/h: 9.3 seconds - 80-120 km/h: 11.8 seconds --- SECTION 6: SAFETY RATINGS --------------------------- Bharat NCAP 2023 Rating: 5 Stars (Adult Occupant) Adult Occupant Protection: 29.32 / 32 points (91.6%) Child Occupant Protection: 45.00 / 49 points (91.8%) Key Safety Features: - 6 airbags (driver, passenger, side, curtain) - ABS with EBD and Brake Assist - Electronic Stability Program (ESP) - Hill Hold Control -",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "- Electronic Stability Program (ESP) - Hill Hold Control - Rollover Mitigation - ISOFIX child seat anchors - TPMS (Tyre Pressure Monitoring System) - Rear parking camera with sensors --- SECTION 7: EMISSION COMPLIANCE -------------------------------- Standard: BS6 Phase 2 (Equivalent to Euro 6d) NOx (Diesel): 0.06 g/km (Limit: 0.08 g/km) - COMPLIANT PM (Diesel): 0.0004 g/km (Limit: 0.0045 g/km) - COMPLIANT CO (Petrol): 0.8 g/km (Limit: 1.0 g/km) - COMPLIANT HC+NOx (Petrol): 0.09 g/km (Limit: 0.17 g/km) -",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "- COMPLIANT HC+NOx (Petrol): 0.09 g/km (Limit: 0.17 g/km) - COMPLIANT Real Driving Emissions (RDE) Test: PASSED On-Board Diagnostics: OBD2 compliant --- SECTION 8: SERVICE INTERVALS ------------------------------ Engine Oil Change: Every 10,000 km or 1 year (whichever is earlier) Engine Oil Specification: 5W-30 fully synthetic Oil Capacity (Petrol): 3.5 litres Oil Capacity (Diesel): 4.5 litres Air Filter: Replace every 20,000 km Fuel Filter (Diesel): Replace every 40,000 km Spark Plugs (Petrol): Replace",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    },
+    {
+        "page_content": "(Diesel): Replace every 40,000 km Spark Plugs (Petrol): Replace every 30,000 km Timing Belt/Chain: Chain-driven (no scheduled replacement) Coolant Flush: Every 2 years or 40,000 km Brake Fluid: Replace every 2 years Clutch Fluid: Replace every 2 years Tyre Rotation: Every 10,000 km --- END OF REPORT Document Reference: ARAI/PERF/NEXON/2023/047 This report is prepared for academic and reference purposes only.",
+        "metadata": {
+            "source": "tata_nexon_performance_report.txt",
+            "vehicle_brand": "Tata",
+            "vehicle_model": "Nexon",
+            "document_type": "performance_report"
+        }
+    }
+]

@@ -1,0 +1,236 @@
+MARUTI SUZUKI SWIFT OWNER'S MANUAL (EXCERPT)
+=============================================
+Vehicle: Maruti Suzuki Swift
+Model Year: 2023
+Edition: Third Generation (AZ Series)
+Manufacturer: Maruti Suzuki India Limited
+Document Type: Owner's Reference Manual (Abbreviated)
+
+---
+
+CHAPTER 1: INTRODUCTION
+-------------------------
+Congratulations on choosing the Maruti Suzuki Swift. This manual contains important
+information about the operation and maintenance of your vehicle. Please read it
+carefully and keep it in your vehicle for future reference.
+
+The Swift is a premium hatchback designed for urban and highway driving, offering
+a balance of performance, fuel efficiency, and comfort.
+
+---
+
+CHAPTER 2: ENGINE SPECIFICATIONS
+----------------------------------
+
+2.1 Petrol Engine (K12N DualJet)
+Engine Type: 4-cylinder, inline, naturally aspirated
+Displacement: 1,197 cc
+Bore x Stroke: 73.0 mm x 71.5 mm
+Compression Ratio: 12.0:1
+Valvetrain: DOHC, 16 valves, Variable Valve Timing (VVT)
+Fuel System: Dual Injector per cylinder (DualJet technology)
+
+Power Output:
+- Maximum Power: 89.74 PS (66 kW) @ 6,000 RPM
+- Maximum Torque: 113 Nm @ 4,400 RPM
+
+Fuel Efficiency (ARAI Certified):
+- Manual (5MT): 23.20 km/l
+- Automatic (AMT): 23.76 km/l
+
+Emission Standard: BS6 Phase 2
+CO2 Emissions: 103 g/km (Manual)
+
+2.2 CNG Variant (K12N DualJet CNG)
+Engine Type: Same as petrol base with bi-fuel CNG kit
+Maximum Power (CNG mode): 77.50 PS @ 6,000 RPM
+Maximum Torque (CNG mode): 98.5 Nm @ 4,400 RPM
+Fuel Efficiency (CNG): 30.90 km/kg (ARAI certified)
+CNG Tank Capacity: 60 litres (water capacity)
+
+---
+
+CHAPTER 3: TRANSMISSION
+-------------------------
+3.1 5-Speed Manual Transmission (5MT)
+Gear Ratios:
+- 1st: 3.545
+- 2nd: 1.904
+- 3rd: 1.233
+- 4th: 0.926
+- 5th: 0.724
+- Reverse: 3.272
+- Final Drive: 4.388
+
+3.2 5-Speed Automated Manual Transmission (AMT)
+The AMT uses an electronic actuator to automate clutch and gear changes.
+Modes: Drive (D), Neutral (N), Reverse (R), Manual (M)
+
+---
+
+CHAPTER 4: CHASSIS & SUSPENSION
+---------------------------------
+Suspension (Front): MacPherson Strut with coil springs
+Suspension (Rear): Torsion beam (twist beam) with coil springs
+Steering: Electric Power Steering (EPS)
+Steering Turns (lock to lock): 3.14 turns
+Turning Radius: 4.8 metres
+
+Brakes:
+- Front: Ventilated disc brakes, 258 mm diameter
+- Rear: Drum brakes, 200 mm diameter
+- Brake Assist: Standard on all variants
+- ABS with EBD: Standard on all variants
+
+Tyres:
+- Standard: 185/65 R15
+- Top Variants: 195/55 R16
+- Tyre Pressure (Front/Rear): 33 PSI / 33 PSI (cold)
+- Spare: Steel full-size spare (select variants) / Space saver
+
+---
+
+CHAPTER 5: FUEL & FLUIDS
+--------------------------
+Fuel Type: Unleaded Petrol (minimum 87 RON / 91 RON recommended)
+Fuel Tank Capacity: 37 litres
+Engine Oil: 5W-30 or 10W-30 (JASO MA2 approved)
+Engine Oil Capacity: 3.3 litres (with filter change)
+Coolant Type: Suzuki Super Long Life Coolant (SLLC)
+Coolant Capacity: 4.5 litres
+Brake Fluid: DOT 3
+Battery: 35 Ah, 12V
+
+---
+
+CHAPTER 6: PERFORMANCE DATA
+-----------------------------
+Acceleration:
+- 0-60 km/h: 6.1 seconds (Manual)
+- 0-100 km/h: 12.3 seconds (Manual)
+- 0-100 km/h: 13.1 seconds (AMT)
+
+Top Speed:
+- Petrol Manual: 175 km/h
+- Petrol AMT: 170 km/h
+- CNG: 155 km/h
+
+Braking:
+- 100-0 km/h: 43 metres
+- 80-0 km/h: 28 metres
+
+---
+
+CHAPTER 7: SAFETY FEATURES
+----------------------------
+Global NCAP Rating (2022): 3 Stars (Adult), 3 Stars (Child)
+Note: New 2023 variants with updated safety pack expected to be retested.
+
+Standard Safety Equipment (All Variants):
+- Dual front airbags
+- ABS with EBD
+- Seatbelt pretensioners (front)
+- Rear parking sensors
+- High-speed alert system
+
+Top Variant Additional Safety:
+- Side and curtain airbags (6 airbags total)
+- Electronic Stability Program (ESP)
+- Hill Hold Assist
+- 360-degree camera system
+
+---
+
+CHAPTER 8: MAINTENANCE SCHEDULE
+---------------------------------
+First Service: 1,000 km (free)
+Regular Service: Every 10,000 km or 12 months
+
+10,000 km Service:
+- Engine oil and filter change
+- Tyre rotation
+- Visual brake inspection
+- Check all fluid levels
+- Reset service reminder
+
+20,000 km Service (includes above plus):
+- Air filter inspection / replacement
+- Fuel system cleaning
+- Throttle body cleaning
+- Check brake pad thickness
+
+40,000 km Service (includes above plus):
+- Spark plug replacement (iridium: 80,000 km)
+- Coolant check
+- Brake fluid replacement
+- Drive belt inspection
+
+80,000 km Service (includes above plus):
+- Spark plug replacement (non-iridium)
+- Engine air filter replacement
+- Fuel filter replacement (CNG variant)
+- Transmission oil replacement
+
+---
+
+CHAPTER 9: TROUBLESHOOTING
+----------------------------
+Problem: Engine does not start
+Possible Causes:
+1. Dead battery - check battery charge level
+2. Empty fuel tank - refuel
+3. Faulty immobiliser - ensure correct key is used
+4. Flooded engine - wait 10 minutes, then crank without pressing accelerator
+
+Problem: Excessive fuel consumption
+Possible Causes:
+1. Tyre pressure too low - inflate to recommended pressure
+2. Air filter clogged - replace air filter
+3. Spark plugs worn - replace spark plugs
+4. Driving habit - avoid aggressive acceleration
+5. AC usage - reduces efficiency by 15-20%
+
+Problem: Vibration at idle
+Possible Causes:
+1. Engine mounts worn - inspect and replace
+2. Spark plug misfire - check spark plugs
+3. Idle speed incorrect - service required
+4. Vacuum leak - inspect intake hoses
+
+Problem: Overheating
+Possible Causes:
+1. Low coolant level - top up with recommended coolant
+2. Radiator blocked - clean or replace radiator
+3. Thermostat stuck closed - replace thermostat
+4. Water pump failure - replace water pump
+5. Head gasket failure - requires immediate professional service
+
+---
+
+CHAPTER 10: WARRANTY INFORMATION
+----------------------------------
+Standard Warranty: 2 years / 40,000 km (whichever is earlier)
+Extended Warranty: Available up to 5 years / 1,00,000 km
+Corrosion Warranty: 3 years
+Roadside Assistance: 1 year (extendable)
+
+Warranty does not cover:
+- Normal wear items (brake pads, tyres, clutch)
+- Damage from accidents or misuse
+- Non-Maruti Suzuki approved modifications
+- Services performed outside authorized service centres
+
+---
+
+CONTACT & SERVICE NETWORK
+---------------------------
+Maruti Suzuki Customer Care: 1800-102-1800 (Toll Free)
+Service Network: 3,500+ authorized service centres across India
+Genuine Spare Parts: Available at all authorized dealers
+Digital Service Booking: Suzuki Connect App / maruti.co.in
+
+---
+
+END OF MANUAL EXCERPT
+This manual excerpt is prepared for academic and reference purposes only.
+Full owner's manual available at official Maruti Suzuki dealerships.

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Q01",
+        "query": "What is the peak power output of the Tata Nexon EV?",
+        "ground_truth": "129 PS (95 kW)",
+        "category": "engine_specs"
+    },
+    {
+        "id": "Q02",
+        "query": "What does OBD code P0301 indicate?",
+        "ground_truth": "Cylinder 1 misfire detected",
+        "category": "diagnostics"
+    },
+    {
+        "id": "Q03",
+        "query": "Compare fuel efficiency of Swift petrol vs diesel",
+        "ground_truth": "Petrol: 23.2 km/l, Diesel: 28.4 km/l (ARAI)",
+        "category": "comparison"
+    }
+]

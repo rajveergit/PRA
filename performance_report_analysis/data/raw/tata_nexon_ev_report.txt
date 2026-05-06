@@ -1,0 +1,222 @@
+TATA NEXON EV MAX PERFORMANCE REPORT
+======================================
+Document Type: Electric Vehicle Performance & Technical Report
+Vehicle: Tata Nexon EV Max
+Model Year: 2023
+Battery Pack: Long Range (LR) 40.5 kWh
+Report Reference: TATA/EV/NEXON/2023/011
+
+---
+
+SECTION 1: ELECTRIC POWERTRAIN OVERVIEW
+-----------------------------------------
+The Tata Nexon EV Max features a permanent magnet synchronous motor (PMSM)
+paired with a 40.5 kWh lithium-ion battery pack. It represents Tata Motors'
+flagship electric SUV in the sub-compact segment for 2023.
+
+Motor Type: Permanent Magnet Synchronous Motor (PMSM)
+Drive: Front-Wheel Drive (FWD)
+Inverter: SiC (Silicon Carbide) MOSFET-based inverter
+
+---
+
+SECTION 2: MOTOR SPECIFICATIONS
+---------------------------------
+Maximum Power: 143 PS (105 kW) @ 3,000-9,000 RPM
+Maximum Torque: 250 Nm @ 0-3,000 RPM (instantaneous from standstill)
+Continuous Power: 80 kW
+Motor RPM Range: 0 to 12,500 RPM
+Motor Efficiency (peak): 96%
+
+Note: Unlike ICE vehicles, EV motors deliver maximum torque from 0 RPM,
+providing instant acceleration without the need to rev the engine.
+
+---
+
+SECTION 3: BATTERY PACK SPECIFICATIONS
+----------------------------------------
+Battery Chemistry: Lithium Nickel Manganese Cobalt Oxide (NMC)
+Gross Capacity: 40.5 kWh
+Usable Capacity: 37.5 kWh (usable = 92.6% of gross)
+Nominal Voltage: 351.6 V
+Peak Voltage: 403 V
+Battery Weight: 320 kg
+Battery Pack Dimensions: 1,980 mm x 1,280 mm x 145 mm (approx)
+Cell Format: Prismatic
+Battery Cooling: Active liquid cooling system
+Operating Temperature: -10°C to 45°C (optimal: 20°C to 35°C)
+Thermal Management: Active battery thermal management system (BTMS)
+
+Battery Warranty: 8 years / 1,60,000 km (whichever earlier)
+Capacity Retention Guarantee: >70% capacity at end of warranty period
+
+---
+
+SECTION 4: RANGE & EFFICIENCY
+--------------------------------
+MIDC (Modified Indian Driving Cycle) Range: 453 km (certified)
+Real-World Range Estimate: 300-350 km (mixed driving)
+Real-World Range (City Only): 370-400 km
+Real-World Range (Highway): 280-310 km
+
+Efficiency:
+- MIDC: 11.5 kWh / 100 km
+- City: 10.8 kWh / 100 km (estimated)
+- Highway: 14.2 kWh / 100 km (estimated)
+- Combined Real World: 12.0 kWh / 100 km (estimated)
+
+Range Affecting Factors:
+- AC usage: Reduces range by 15-20%
+- Temperature below 10°C: Reduces range by 20-30%
+- Highway speeds above 100 km/h: Reduces range significantly
+- Tyre inflation: 5% range reduction per 10 PSI under-inflation
+
+---
+
+SECTION 5: CHARGING SPECIFICATIONS
+-------------------------------------
+5.1 AC Charging (On-board Charger)
+On-board Charger Capacity: 7.2 kW (single phase)
+AC Input: 230V, 50Hz, single phase
+
+Charging Times (0% to 100%):
+- 15A Home Socket (1.8 kW): ~22 hours (not recommended for regular use)
+- 32A Single Phase AC Wallbox (7.2 kW): ~5.5 hours
+- 3-phase 11 kW AC (if available): ~3.5 hours
+
+5.2 DC Fast Charging (CCS2)
+Maximum DC Charging Rate: 50 kW
+DC Charging Times:
+- 0% to 80% (DC Fast): ~56 minutes
+- 0% to 100% (DC Fast): ~90 minutes
+- 10% to 80% (typical session): ~42 minutes
+
+Charging Port: CCS2 (Combined Charging System Type 2)
+Port Location: Front left fender
+
+5.3 Charging Network Compatibility
+- Tata Power EZ Charge network
+- BPCL Pulse network
+- ChargeZone
+- Ather Grid (for CCS2 compatible chargers)
+- Standard 32A AC wallboxes
+
+---
+
+SECTION 6: PERFORMANCE TESTS
+------------------------------
+Acceleration:
+- 0-60 km/h: 3.9 seconds
+- 0-100 km/h: 9.0 seconds
+- 0-120 km/h: 13.4 seconds
+
+Top Speed: 150 km/h (electronically limited)
+
+Braking (100-0 km/h): 41 metres
+
+Regenerative Braking Modes:
+Mode 0 - Coasting: Minimal regen (feels like ICE in neutral)
+Mode 1 - Low Regen: Gentle deceleration (~0.05g)
+Mode 2 - Medium Regen: Moderate deceleration (~0.1g)
+Mode 3 - High Regen: Strong deceleration (~0.15g, one-pedal possible)
+
+Energy Recovery through Regen: Up to 15% of total energy used (city cycle)
+
+---
+
+SECTION 7: DRIVE MODES
+------------------------
+Eco Mode:
+- Power limited to 65 kW
+- Throttle response: Reduced
+- Regen: Maximum (Mode 3 default)
+- Range gain: +12-15% vs City mode
+
+City Mode:
+- Power limited to 85 kW
+- Throttle response: Normal
+- Regen: Medium (Mode 2 default)
+- Balanced performance and range
+
+Sport Mode:
+- Full 105 kW available
+- Throttle response: Sharp
+- Regen: Medium (Mode 2 default)
+- Maximum performance, range reduced by ~10%
+
+---
+
+SECTION 8: SERVICE INTERVALS FOR EV
+--------------------------------------
+Unlike ICE vehicles, Nexon EV requires minimal scheduled maintenance:
+
+Every 7,500 km / 6 months:
+- Tyre rotation and inspection
+- Brake fluid level check
+- Cabin air filter check
+- All fluid levels (coolant, brake fluid, washer fluid)
+- Visual inspection of high-voltage cables
+
+Every 30,000 km / 2 years:
+- Brake fluid replacement
+- Cabin air filter replacement
+- HVAC filter replacement
+- High-voltage system inspection
+- Battery contact inspection (by trained technician only)
+
+Every 60,000 km / 4 years:
+- Coolant replacement (BTMS circuit)
+- Brake inspection
+- Suspension check
+
+No Required Replacements (unlike ICE):
+- No engine oil changes
+- No spark plugs
+- No timing belt/chain
+- No exhaust system maintenance
+- No clutch replacement
+
+Battery Pack Service:
+- Annual battery health check recommended
+- Battery cell balancing: Automatic (BMS managed)
+- No user-serviceable parts in battery pack
+
+---
+
+SECTION 9: COMPARISON WITH NEXON ICE VARIANTS
+------------------------------------------------
+Parameter              | Nexon EV Max | Nexon Petrol 1.2T | Nexon Diesel 1.5
+-----------------------|--------------|-------------------|------------------
+Power (PS)             | 143          | 118.36            | 113.39
+Torque (Nm)            | 250          | 170               | 260
+0-100 km/h (sec)       | 9.0          | 11.6              | 11.1
+Top Speed (km/h)       | 150          | 178               | 182
+Running Cost /100km    | ₹80-120      | ₹520-580          | ₹380-420
+Service Cost/year      | ~₹4,000      | ~₹8,000           | ~₹10,000
+CO2 Emissions (g/km)   | 0 (direct)   | 114               | 107
+Range                  | 300-350 km   | 600+ km           | 700+ km
+
+---
+
+SECTION 10: TATA EV BATTERY SERVICE SCHEDULE
+----------------------------------------------
+Year 1-2: Annual comprehensive battery health report
+- State of Health (SoH) assessment
+- Cell voltage uniformity check
+- Thermal management system check
+- High voltage connector inspection
+
+Year 3-5: Extended warranty service
+- Full battery diagnostic
+- Firmware update for BMS
+- Cooling system pressure test
+
+Battery Replacement Cost Estimate (if needed outside warranty):
+- Full pack replacement: ₹3.5-4.5 lakhs (estimated)
+- Individual module replacement: Not supported (full pack only)
+
+---
+
+END OF REPORT
+Report Reference: TATA/EV/NEXON/2023/011
+This report is prepared for academic and reference purposes only.

@@ -1,0 +1,95 @@
+code,description,system,probable_cause,fix,severity
+P0100,Mass Air Flow Sensor Circuit Malfunction,Engine,Dirty or faulty MAF sensor,Clean or replace MAF sensor,Medium
+P0101,Mass Air Flow Sensor Range/Performance,Engine,Air leak or faulty MAF sensor,Check air intake for leaks; replace MAF if needed,Medium
+P0102,Mass Air Flow Sensor Low Input,Engine,Wiring issue or faulty MAF,Inspect wiring harness; replace MAF sensor,Medium
+P0103,Mass Air Flow Sensor High Input,Engine,Short circuit in MAF wiring,Check and repair wiring; replace MAF sensor,Medium
+P0110,Intake Air Temperature Sensor Circuit,Engine,Faulty IAT sensor or wiring,Replace IAT sensor,Low
+P0112,Intake Air Temperature Sensor Low Input,Engine,Short to ground in IAT circuit,Inspect and repair IAT wiring,Low
+P0113,Intake Air Temperature Sensor High Input,Engine,Open circuit in IAT sensor,Replace IAT sensor,Low
+P0116,Engine Coolant Temperature Sensor Range,Engine,Faulty ECT sensor or stuck thermostat,Replace ECT sensor or thermostat,Medium
+P0117,Engine Coolant Temperature Sensor Low,Engine,Short to ground in ECT circuit,Inspect wiring; replace ECT sensor,Medium
+P0118,Engine Coolant Temperature Sensor High,Engine,Open circuit in ECT sensor,Replace ECT sensor,Medium
+P0128,Coolant Temperature Below Thermostat Regulating Temperature,Engine,Stuck open thermostat,Replace thermostat,Medium
+P0171,System Too Lean Bank 1,Fuel,Vacuum leak or clogged fuel injector,Check for vacuum leaks; clean injectors,Medium
+P0172,System Too Rich Bank 1,Fuel,Leaking fuel injector or faulty O2 sensor,Inspect injectors; replace O2 sensor,Medium
+P0174,System Too Lean Bank 2,Fuel,Vacuum leak on bank 2 side,Inspect intake manifold gaskets,Medium
+P0175,System Too Rich Bank 2,Fuel,Faulty fuel pressure regulator,Replace fuel pressure regulator,Medium
+P0200,Injector Circuit Malfunction,Fuel,Faulty injector or wiring issue,Inspect injector wiring; replace injector,High
+P0201,Injector Circuit Malfunction Cylinder 1,Fuel,Faulty cylinder 1 injector,Replace injector on cylinder 1,High
+P0202,Injector Circuit Malfunction Cylinder 2,Fuel,Faulty cylinder 2 injector,Replace injector on cylinder 2,High
+P0203,Injector Circuit Malfunction Cylinder 3,Fuel,Faulty cylinder 3 injector,Replace injector on cylinder 3,High
+P0204,Injector Circuit Malfunction Cylinder 4,Fuel,Faulty cylinder 4 injector,Replace injector on cylinder 4,High
+P0261,Cylinder 1 Injector Circuit Low,Fuel,Short to ground in injector wiring,Repair wiring or replace injector,High
+P0300,Random/Multiple Cylinder Misfire Detected,Ignition,Faulty spark plugs or ignition coils,Replace spark plugs and check coils,High
+P0301,Cylinder 1 Misfire Detected,Ignition,Faulty spark plug or coil on cylinder 1,Replace spark plug/coil on cylinder 1,High
+P0302,Cylinder 2 Misfire Detected,Ignition,Faulty spark plug or coil on cylinder 2,Replace spark plug/coil on cylinder 2,High
+P0303,Cylinder 3 Misfire Detected,Ignition,Faulty spark plug or coil on cylinder 3,Replace spark plug/coil on cylinder 3,High
+P0304,Cylinder 4 Misfire Detected,Ignition,Faulty spark plug or coil on cylinder 4,Replace spark plug/coil on cylinder 4,High
+P0325,Knock Sensor 1 Circuit Malfunction,Ignition,Faulty knock sensor or wiring,Replace knock sensor,Medium
+P0335,Crankshaft Position Sensor Circuit,Ignition,Faulty CKP sensor or wiring,Replace crankshaft position sensor,High
+P0340,Camshaft Position Sensor Circuit,Ignition,Faulty CMP sensor or wiring,Replace camshaft position sensor,High
+P0351,Ignition Coil A Primary/Secondary Circuit,Ignition,Faulty ignition coil A,Replace ignition coil A,High
+P0352,Ignition Coil B Primary/Secondary Circuit,Ignition,Faulty ignition coil B,Replace ignition coil B,High
+P0400,Exhaust Gas Recirculation Flow Malfunction,Emission,Clogged or faulty EGR valve,Clean or replace EGR valve,Medium
+P0401,Exhaust Gas Recirculation Insufficient Flow,Emission,Blocked EGR passage,Clean EGR passages and valve,Medium
+P0402,Exhaust Gas Recirculation Excessive Flow,Emission,EGR valve stuck open,Replace EGR valve,Medium
+P0410,Secondary Air Injection System Malfunction,Emission,Faulty air pump or check valve,Inspect and replace air pump/valves,Medium
+P0420,Catalyst System Efficiency Below Threshold Bank 1,Emission,Worn catalytic converter or faulty O2 sensor,Replace catalytic converter or O2 sensor,High
+P0421,Warm Up Catalyst Efficiency Below Threshold,Emission,Failing warm-up catalytic converter,Replace warm-up catalytic converter,High
+P0430,Catalyst System Efficiency Below Threshold Bank 2,Emission,Worn catalytic converter bank 2,Replace catalytic converter on bank 2,High
+P0440,Evaporative Emission Control System Malfunction,Emission,Loose fuel cap or faulty purge valve,Tighten fuel cap; inspect EVAP system,Low
+P0441,Evaporative Emission Control Incorrect Purge Flow,Emission,Faulty purge solenoid,Replace EVAP purge solenoid,Low
+P0442,Evaporative Emission Control Small Leak,Emission,Small fuel system leak,Inspect fuel cap and EVAP hoses,Low
+P0455,Evaporative Emission Control Large Leak,Emission,Large EVAP system leak or loose fuel cap,Check fuel cap and EVAP hoses,Medium
+P0470,Exhaust Pressure Sensor Malfunction,Emission,Faulty exhaust pressure sensor,Replace exhaust pressure sensor,Medium
+P0500,Vehicle Speed Sensor Malfunction,Transmission,Faulty VSS or wiring,Replace vehicle speed sensor,Medium
+P0505,Idle Control System Malfunction,Engine,Dirty or faulty idle air control valve,Clean or replace IAC valve,Medium
+P0506,Idle Control System RPM Too Low,Engine,Vacuum leak or IAC valve issue,Check for vacuum leaks; clean IAC,Medium
+P0507,Idle Control System RPM Too High,Engine,Faulty IAC valve,Replace IAC valve,Medium
+P0560,System Voltage Malfunction,Electrical,Weak battery or faulty alternator,Test battery and alternator,High
+P0562,System Voltage Low,Electrical,Low battery voltage or charging issue,Check battery and charging system,High
+P0563,System Voltage High,Electrical,Overcharging alternator,Replace voltage regulator or alternator,High
+P0600,Serial Communication Link Malfunction,Electronics,ECU communication failure,Inspect CAN bus wiring; replace ECU,High
+P0601,Internal Control Module Memory Check Sum Error,Electronics,Faulty ECU,Replace or reflash ECU,High
+P0606,ECM/PCM Processor Fault,Electronics,Faulty engine control module,Replace ECM,High
+P0620,Generator Control Circuit Malfunction,Electrical,Faulty alternator or wiring,Inspect alternator circuit,High
+P0700,Transmission Control System Malfunction,Transmission,TCM fault or solenoid issue,Inspect transmission control module,High
+P0705,Transmission Range Sensor Circuit Malfunction,Transmission,Faulty PRNDL switch,Replace transmission range sensor,Medium
+P0711,Transmission Fluid Temperature Sensor Malfunction,Transmission,Faulty TFT sensor,Replace transmission fluid temp sensor,Medium
+P0715,Input/Turbine Speed Sensor Circuit,Transmission,Faulty input speed sensor,Replace input speed sensor,High
+P0720,Output Speed Sensor Circuit Malfunction,Transmission,Faulty output speed sensor,Replace output speed sensor,High
+P0730,Incorrect Gear Ratio,Transmission,Worn clutches or faulty solenoid,Service transmission; replace solenoids,High
+P0740,Torque Converter Clutch Circuit Malfunction,Transmission,Faulty TCC solenoid,Replace TCC solenoid,High
+P0750,Shift Solenoid A Malfunction,Transmission,Faulty shift solenoid A,Replace shift solenoid A,High
+P0760,Shift Solenoid C Malfunction,Transmission,Faulty shift solenoid C,Replace shift solenoid C,High
+P0801,Reverse Inhibit Control Circuit Malfunction,Transmission,Faulty reverse inhibit solenoid,Replace reverse inhibit solenoid,Medium
+P0850,Park/Neutral Switch Input Circuit,Transmission,Faulty park/neutral switch,Replace park/neutral switch,Medium
+P1000,OBD Systems Readiness Test Not Complete,Diagnostic,Drive cycles not completed after battery reset,Complete required drive cycles,Info
+P1100,MAF Sensor Intermittent,Engine,Intermittent MAF sensor fault,Inspect MAF connector; replace if needed,Medium
+P1130,O2 Sensor Heater Circuit Bank 1 Sensor 1,Emission,Faulty O2 sensor heater,Replace O2 sensor,Medium
+P1131,O2 Sensor Heater Circuit Bank 1 Sensor 2,Emission,Faulty downstream O2 sensor heater,Replace downstream O2 sensor,Medium
+P1300,Igniter Circuit Malfunction,Ignition,Faulty igniter or coil,Replace igniter or ignition coil,High
+P1400,Sub-Throttle Position Sensor,Engine,Faulty sub-throttle sensor,Replace throttle body assembly,Medium
+P1450,Unable to Bleed Up Fuel Tank Vacuum,Emission,Faulty EVAP canister or vent valve,Replace EVAP canister or vent valve,Low
+P1500,Vehicle Speed Sensor Intermittent,Transmission,Intermittent VSS fault,Check VSS wiring and connector,Medium
+P1600,ECM Battery Circuit Malfunction,Electrical,ECM power supply issue,Inspect ECM fuse and wiring,High
+P2096,Post Catalyst Fuel Trim System Too Lean Bank 1,Emission,Exhaust leak or faulty O2 sensor,Check for exhaust leaks; replace O2 sensor,Medium
+P2097,Post Catalyst Fuel Trim System Too Rich Bank 1,Emission,Faulty catalytic converter or O2 sensor,Inspect catalytic converter,Medium
+P2100,Throttle Actuator Control Motor Circuit Open,Engine,Faulty throttle actuator motor,Replace throttle body,High
+P2101,Throttle Actuator Control Motor Circuit Range,Engine,Faulty TAC motor,Replace throttle actuator,High
+P2119,Throttle Actuator Control Throttle Body Range,Engine,Dirty or faulty throttle body,Clean or replace throttle body,Medium
+P2122,Throttle/Pedal Position Sensor D Circuit Low,Engine,Faulty accelerator pedal sensor,Replace accelerator pedal assembly,High
+P2123,Throttle/Pedal Position Sensor D Circuit High,Engine,Short in pedal position sensor circuit,Replace accelerator pedal assembly,High
+P2195,O2 Sensor Signal Stuck Lean Bank 1 Sensor 1,Emission,Faulty upstream O2 sensor,Replace upstream O2 sensor,Medium
+P2196,O2 Sensor Signal Stuck Rich Bank 1 Sensor 1,Emission,Faulty upstream O2 sensor or fuel issue,Replace O2 sensor; check fuel pressure,Medium
+P2270,O2 Sensor Signal Stuck Lean Bank 1 Sensor 2,Emission,Faulty downstream O2 sensor,Replace downstream O2 sensor,Medium
+P2271,O2 Sensor Signal Stuck Rich Bank 1 Sensor 2,Emission,Faulty downstream O2 sensor,Replace downstream O2 sensor,Medium
+P2400,EVAP Leak Detection Pump Control Circuit Open,Emission,Faulty EVAP leak detection pump,Replace EVAP leak detection pump,Low
+P2401,EVAP Leak Detection Pump Control Circuit Low,Emission,Short in LDP circuit,Repair LDP wiring,Low
+P2610,ECM/PCM Internal Engine Off Timer Performance,Electronics,ECM internal fault,Replace or reflash ECM,High
+U0001,High Speed CAN Communication Bus,Electronics,CAN bus wiring fault,Inspect CAN bus network,High
+U0100,Lost Communication with ECM/PCM,Electronics,ECM communication failure,Check ECM power and ground; replace if needed,High
+U0101,Lost Communication with TCM,Electronics,TCM communication failure,Check TCM wiring; replace if needed,High
+U0121,Lost Communication with ABS Control Module,Braking,ABS module communication failure,Check ABS module wiring,High
+U0140,Lost Communication with Body Control Module,Electronics,BCM communication failure,Inspect BCM wiring; replace BCM,Medium
+U0155,Lost Communication with Instrument Panel,Electronics,Cluster module communication issue,Check instrument cluster wiring,Medium
